@@ -1,0 +1,501 @@
+institutia sursa,sex,varsta,data debut simptome declarate,simptome declarate,data internare,simptome raportate la internare,diagnostic si semne de internare,istoric de calatorie,mijloace de transport folosite,confirmare contact cu o persoana infectata,data rezultat testare,rezultat testare
+X,MASCULIN,52.0,43913.0,febra tuse productiva  mialgii,43920.0,dispnee marcata de decubit cianoza periorala,Suspiciune infectie COVID 19  Stare febrila,NU,NU,NU,43915.0,POZITIV
+Y,FEMININ,40.0,44000.0,ASIMPTOMATICA,44000.0,ASIMPTOMATICA,ANEXITA DREAPTA. SUSPICIUNE TORSIUNE ANEXA DREAPTA. SUSPICIUNE APENDICITA ACUTA. ,NU,NU,NU,43917.0,NEGATIV
+Y,MASCULIN,44.0,43973.0,ASIMPTOMATIC COVID,43977.0,ASIMPTOMATIC COVID,DURERI ABDOMINALE COLECISTITA ACUTA LITIAZICA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43920.0,POZITIV
+X,MASCULIN,64.0,43927.0,dispnee edeme ,43935.0,dispnee edeme,susp.Covid 19 cord pulmonar cronic decompensat,NU,NU,NU,43921.0,NEGATIV
+X,MASCULIN,53.0,43913.0,febra  durere epigastrica  tuse seaca,43922.0,febra  durere epigastrica  tuse seaca,Suspiciune COVID-19,NU,NU,nu cunoaste,43921.0,NEGATIV
+X,FEMININ,49.0,43947.0,TUSE FEBRA,43949.0,TUSE FEBRA,SUSP.INF COVID 19 PNEUMONIE STG,NU,NU,NU,43921.0,NEGATIV
+X,MASCULIN,79.0,Medicina Interna 2,tuse febra dispnee,43924.0,tuse febra,Bronhopneumonie  Suspiciune infectie COVID 19,NU,NU,NU,43924.0,POZITIV
+X,FEMININ,82.0,43916.0,ASMTOMATIC COVID,43916.0,TUSE SEARA,PLASTRON COLECISTIC  ANEMIE BIERMER,NU A CALATORIT,NU E CAZUL,NU E CAZUL,43924.0,POZITIV
+X,FEMININ,62.0,43925.0,dispnee fatigabilitate,43930.0,dispnee marcata de decubit cianoza periorala,Pneumonie cu COVID 19 pozitiva. Insuficienta respiratorie acuta. Boala Waldenstrom. Leucopenie sec. HTA st.II cu risc inalt. CIC. FiA.,NU,NU,NU,43925.0,POZITIV
+X,FEMININ,2 LUNI,06.05.2020,TUSE,06.05.2020,TUSE,TUSE,0,0,0,43925.0,POZITIV
+X,FEMININ,43.0,43920.0,febra frison tuse seaca  inapetenta,43930.0,dispnee marcata de decubit cianoza periorala,Pneumonie acuta interstitiala. Infectie COVID-19 pozitiva.Insuficienta respiratorie acuta. Hepatopatie cronica de etiologie nespecificata,NU,NU,NU,43926.0,POZITIV
+X,MASCULIN,51.0,43937.0,DISPNEE EDEME,43935.0,FEBRA,FEBRA DISPNEE/SUSPICIUNE COVID19,NU,NU,NU,43927.0,NEGATIV
+X,MASCULIN,69.0,43920.0,febra  tuse seaca,43927.0,tuse seaca  dispnee  febra,Pneumopatie acuta. Suspect COVID,NU,NU,neaga,43927.0,POZITIV
+Z,MASCULIN,47.0,43944.0,dispnee junghi toracic,43945.0,dispnee junghi tor.,SUSP.INF.COVID  BPOC ST IV,NU,NU,NU,43927.0,NEGATIV
+X,MASCULIN,38.0,43923.0,tuse  febra  dispnee de repaus,43925.0,tuse  febra  dispnee de repaus,Pneumopatie iunterstitiala. Suspect COVID,DA,TIR,nu cunoaste,43928.0,NEGATIV
+Z,FEMININ,60.0,43955.0,FATIGABILITATE CEFELEE  INAPETENTA,43955.0,FATIGABILITATE CEFELEE  INAPETENTA,SUSPICIUNE  INFECTIE SARS COV 2  LEUCEMIE ACUTA  MIELOCITARA,NU,NU,NU,43928.0,NEGATIV
+X,MASCULIN,71.0,43902.0,dispnee  tuse,43909.0,dispnee  tuse,astm bronsic,NU,NU,NU,43928.0,NEGATIV
+X,MASCULIN,53.0,43916.0,criza comitiala,43916.0,melena  hematemeza,HDS,NU,NU,DA,43928.0,NEGATIV
+X,MASCULIN,73.0,43922.0,frison  febra 37 7,03.04.20 NEFROLOGIE transferat la Pneumo 2 in data de 10.04.20,frison  febra 37 7,frison  febra 37 7  infectie SARS-COV-2 confirmata,NU,NU,NU,43928.0,POZITIV
+X,MASCULIN,70.0,07.04.2020,DISPNEE TUSE,07.04.2020,DISPNEE TUSE,DISPNEE CU ORTOPNEE,NU,NU,NU,43928.0,NEGATIV
+X,MASCULIN,69.0,07.04.2020,DISPNEE CU ORTOPNEE,07.04.2020,TUSE,DISPNEE CU ORTOPNEE,NU,NU,NU,43928.0,NEGATIV
+X,FEMININ,72.0,43926.0,tuse,08.04.2020 Boli Infectioase - transferat la Pneumologie II in data de 10.04.2020,Sp O2- 88%  tuse iritativa   astenie marcata  febra 37 5,Sp O2- 88%  tuse iritativa   astenie marcata  febra 37 5  Infectie SARS-COV-2 confirmata,NU,NU,NU,43929.0,POZITIV
+X,MASCULIN,39.0,43929.0,FEBRA,43929.0,FEBRA DISPNEE,FEBRA  DISNEE/INSUFICIENTA RESPIRATORIE,NU,NU,NU,43929.0,POZITIV
+X,FEMININ,68.0,43928.0,tuse  durere gat,43929.0,tuse  durere gat,bronhopneumonie,NU,NU,DA,43929.0,NEGATIV
+X,FEMININ,50.0,43926.0,tuse  subfebrilutati,43929.0,subfebrilitate  tuse  mialgii  cefalee  astenie,Pneumopatie interstitiala,Nu,NU,Posibil,43929.0,NEGATIV
+X,MASCULIN,60.0,43923.0,tuse seaca  dispnee de repaus  inapetenat  febra 38 grade C.,43930.0,tuse seaca  dispnee de repaus  inapetenat  afebril  desaturare  consult ATI,tuse seaca  dispnee de repaus  inapetenat  febra 38 grade C  SARS-COV-2 confirmat,NU,NU,-,43930.0,POZITIV
+X,MASCULIN,64.0,43921.0,febra  tuse ,43930.0,febra  tuse   dispnee,bronhopneumonie  suspect infectie covid 19  DZII,da-sotia SUA,avion,posibil,43930.0,POZITIV
+X,FEMININ,6.0,43926.0,dureri abdominale,43930.0,dureri abdominale,sind.dureros abdominal  formatiune tumorala rinichi stang  nefroblastom,NU,NU,NU,43930.0,NEGATIV
+X,MASCULIN,71.0,43922.0,subfebra tuse,43929.0,dispnee subfebrilitatate tuse,Bronhopneumonie Insuf respiratorie acuti,NU,NU,NU,43930.0,POZITIV
+X,MASCULIN,74.0,43928.0,febra  inapententa  cefalee  dispnee,09.04.2020 BIA CP tranfer Pneumologie II IN 12.04.2020,febra  inapententa  cefalee  dispnee,pneumonie lob inferior bilateral  insuficienta respiratorie OLD la domiciliu ,NU,NU,NU,43930.0,POZITIV
+X,FEMININ,59.0,43929.0,FEBRA,43929.0,GREATA TUSE,SUSPICIUNE CORONAVIRUS SARS-COV-2,NU,NU,NU,43930.0,NEGATIV
+X,FEMININ,61.0,43922.0,dispnee,43929.0,dispnee,insuficienta respiratorie acuta,NU,NU,NU,43930.0,NEGATIV
+X,MASCULIN,61,43931.0,ASIMOTINATIC COVID  GANGRENA BONT AMPUATIE ANTEPICIOR DREPT,43931.0,ASIMPTOMATIC,GANGRENA BONT AMPUTATIE MB INF DREPT,NU A CALATORIT,NU E CAZUL,CONTACT CU PACIENT POZITIV LA CENTRUL DE DIALIZA BRAUN,43931.0,POZITIV
+Z,MASCULIN,49.0,43922.0,tuse  cefalee  astenie  scadere tolorentei la efort,08.04.2020 BIA - 09.04.2020 transfer ATI COVID,dispnee marcata de decubit cianoza periorala,Insuficienta respiratori acuta protezata mecanic. Bronhopneumonie - suspiciune COVID 19. DZ tip II tratat cu insulina si ADO dezechilibrat. HTA es. Obezitate gr.II,DA,masina,nu cunoaste,43931.0,POZITIV
+X,FEMININ,44.0,43930.0,subfebrilitati  toracalgii,43932.0,tuse seaca  subfebrilitate   toracalgii  mialgii,tuse seaca  subfebrilitate   toracalgii  mialgii Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,48.0,43925.0,tuse seaca  rar expectoratie mucoasa  odinofagie.,43932.0,tuse seaca  rar expectoratie mucoasa  odinofagie.,tuse seaca  rar expectoratie mucoasa  odinofagie frisoane  cefalee lombalgii  saturatie -97% Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,56.0,43925.0,tuse seaca  mialgii dispnee de repaus  odinofagie  inapetenta  frison saturatie -98%  TA =150/80,43931.0,tuse seaca  mialgii dispnee de repaus  odinofagie  inapetenta  frison saturatie -98%  TA =150/80,tuse seaca  mialgii dispnee de repaus  odinofagie  inapetenta  frison saturatie -98%  TA =150/80 Infectie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,80.0,43910.0,febra 38 00 grade C  transpiratii nocturne,23.03.2020 Medicina Inetrna 2. transfer Pneumologie II in 12.04.2020,febra 38 00 grade C  transpiratii nocturne  dispnee  cefalee,febra 38 00 grade C  transpiratii nocturne  dispnee  cefalee,NU,NU,NU,43931.0,POZITIV
+X,FEMININ,72.0,43928.0,inapetenta  tuse,43931.0,tuse,pneumopatie suspect COVID19,NU,NU,NU,43931.0,POZITIV
+X,FEMININ,51.0,43929.0,ASIMPTOMATIC,43929.0,ICTER MECA,ICTER MECA,NU,NU,DA,43931.0,NEGATIV
+X,FEMININ,29.0,43931.0,ASIMPTOMATIC COVID  DURERE HIPOCONDRUL DRT ,43935.0,ASIMPTOMATIC,COLECISTITA CRONICA LITIAZICA  STATUS POST ERCP,NU A CALATORIT,NU E CAZUL,NU E CAZUL,43931.0,POZITIV
+X,MASCULIN,86.0,43928.0,dispnee,43931.0,dispnee,pneumonie bilaterala suspect COVID19,NU,NU,NU,43931.0,POZITIV
+X,FEMININ,48.0,43925.0,cefalee  intensa  arsura retrosternala,43932.0,cefalee intensa   frisoane  epistaxis  odinofagie  arsura retrosternala,cefalee intensa   frisoane  epistaxis  odinofagie  arsura retrosternala Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,42.0,43929.0,temperatura -37.2  tuse seaca  mialgii  scaune diareice,43932.0,tuse seaca  subfebrilitati  frisoane  odinofagie  mialgii scaune diareice 2-3/zi,tuse seaca   subfebrilitati  frisoane  odinofagie  mialgii scaune diareice 2-3/zi Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,36.0,43927.0,dispnee la efort  mic  tuse iritativa astenie marcata  febra 37 4 grade C.,43932.0,cefalee intensa mialgii  tuse seaca   frisoane  anosmie,cefalee intensa mialgii  tuse seaca   frisoane  anosmie Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,MASCULIN,71.0,43918.0,tuse  cefalee,43931.0,cefalee  tuse,pneumonie bilaterala suspect COVID19,NU,NU,NU,43931.0,POZITIV
+X,FEMININ,48.0,43928.0,cefalee  mialgii  afebrila  tuse cu expectoratie muco-purulenta,43932.0,cefalee  tuse cu expectoratie muco purulenta odinofagie mialgii,cefalee  tuse cu expectoratie muco purulenta odinofagie mialgii Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,55.0,43931.0,ASIMTOMATIC COVID  DURERE REG FESIERA STG,43931.0,ASIMPTOMATIC,ABCES FESIER STANG  STARE SEPTICA,NU A CALATORIT,NU E CAZUL,NU E CAZUL,43931.0,POZITIV
+X,FEMININ,69.0,43931.0,ASIMPTOMATIC,43931.0,ABCES ISCHIO-RECTAL STANG,ABCES ISCHIO-RECTAL STANG,NU,NU,DA,43931.0,NEGATIV
+X,FEMININ,60.0,43921.0,astenie  fatigabilitate  greturi  tuse seaca,43924.0,febra  tuse seaca  astenie  fatigabiliate  greturi  dispnee,Pneumopatie LIB  Suspect COVID,NU,NU,nu cunoaste,43931.0,NEGATIV
+X,MASCULIN,65.0,43926.0,febra,43931.0,febra,pneumonie bilaterala suspect COVID19,NU,NU,NU,43931.0,POZITIV
+X,MASCULIN,74.0,BI CICIO POP,febra  tuse,43931.0,febra tuse  astenie,Pneumonie bilaterala  Infectie SARS-CoV2  Insuficienta respiratorie acuta  LAM  DZ tip 2 insulinonecesitant  CIC  ICC NYHA II  BCR std III  pancitopenie,NU,NU,NU,43931.0,POZITIV
+X,MASCULIN,63.0,43931.0,ASIMPTOMATIC COVID  DURERE HALUCE ,43931.0,ASIMPTOMATIC,GANGRENA DIABETICA HALUCE STANG  STARE SEPTICA, NU A CALATORIT,NU E CAZUL,NU E CAZUL,43931.0,POZITIV
+X,FEMININ,65.0,43931.0,NU,43931.0,NU,tentativa suicid,NU,NU,NU,43931.0,NEGATIV
+X,FEMININ,44.0,43931.0,dispnee la eforturi mici in rest asimptomatica,43932.0,dispnee la eforturi mici in rest asimptomatica,dispnee la eforturi mici in rest asimptomatica Infecrie SARS-COV-2 confirmata,NU,NU,DA,43931.0,POZITIV
+X,FEMININ,84.0,43928.0,febra 38,43928.0,HEMATEMEZA,HDS (HEMATEMEZA) CARDIOPATIE MIXTA CU FEN. IVS.,NU,NU,NU,43931.0,NEGATIV
+X,FEMININ,35.0,43919.0,febra  frison  inapetenta  tuse,43932.0,febra  tuse,suspiciune infectie covid 19,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,49.0,43931.0,dureri abdominale  greturi  scaune diareice,43932.0,scaune diareice,pneumonie LID  suspect COVID19,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,68.0,43929.0,durere toracica anterioara,43929.0,fara acuze,1.stenoza aortica severa  2. sindrom anemic,NU,NU,DA,43932.0,NEGATIV
+X,MASCULIN,66.0,43931.0,pierderea fortei musculare,43932.0,pierderea fortei musculare,pneumonie lob inferior drept suspect COVID19,NU,NU,NU,43932.0,POZITIV
+X,FEMININ,19.0,43915.0,febra tuse,43932.0,ASIMPTOMATIC,sarcina 37 saptamani in evolutie Suspect COVID,NU,NU,NU,43932.0,POZITIV
+Y,FEMININ,37.0,44014.0,TEGUMENTE PALIDE  ASTENIE,44015.0,VALORI SCAZUTE ALE HEMOGLOBINEI,ANEMIE HIPOCROMA MICROCITARA SEVERA  DIABET ZAHARAT TIP 2  SUSPICIUNE INFECTIE SARS-COV-2,NU,NU ,NU,43932.0,NEGATIV
+X,FEMININ,68.0,43932.0,ASIMPTOMATIC,43932.0,DURERI ABDOMINALE,SD OCLUSIV,NU,NU,NU,43932.0,NEGATIV
+X,FEMININ,53.0,43925.0,SUSP SARS COV-2 SDR.DIUREIC,43932.0,SUSP SARS COV-2,SINDROM DIUREIC ACUT SUSP COVID-2 SDR DEPRESIV HTA ST I BYPASS AORTOCORONARIAN,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,70.0,43930.0,tuse seaca  dispnee,43932.0,dispnee  tuse,pneumonie bazala dr .suspect covid 19  hta. Dz2 insufic resp cr. Acutizata`,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,43.0,43926.0,ASIMPTOMATIC COVID ,43926.0,ASIMPTOMATIC,GANGRENA DIABETICA PICOR DRT  FLEGMON PLANTAR DRT  CELULITA MB INFERIOR DREPT,NU A CALATORIT ,NU E CAZUL,PACIENT MEDICINA INTERNA 2,43932.0,POZITIV
+X,FEMININ,73.0,11.04.020,durere membru inf stg  valori tesionale crescute,43932.0,vertij  durere,pneumonie mediohilara stg  dz tip 2  hta.  ulcer gamba stg Suspiciune covid 19,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,72.0,43932.0,astenie  dispnee,43933.0,dureri abdominale  astenie  dispnee,suspiciune COVID19,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,73.0,43931.0,episod sincopal  vertij,12.04.2020 Boli Infectioase. transfer Pneumologie II in data de 12.04.2020,vertij  cefalee  greturi.,vertij  cefalee  greturi.,NU,NU,NU,43932.0,POZITIV
+X,MASCULIN,75.0,43932.0,deficit motor hemicorp drept  afazie,43932.0,afazie,AVC acut  susp. Covid 19,NU,NU,NU,43932.0,NEGATIV
+X,MASCULIN,62.0,43932.0,ASIMPTOMATIC,43932.0,ABCES HALUCE,ABCES HALUCE,NU,NU,NU,43932.0,NEGATIV
+X,FEMININ,7 ANI 1 LUNA,43933.0,Afebrila.Paloare periorala.Stranut repetat.,43933.0,Afebrila.Paloare periorala.Stranut repetat., RINOFARINGITA ACUTA CU IRA .COPIL TESTAT PENTRU COVID 19 .SAD gr1 .                                     Afebrila.Paloare periorala.Stranut repetat.,NU,NU,NU,43933.0,NEGATIV
+X,MASCULIN,83.0,43930.0,tuse  disfonie  dispnee,43931.0,tuse  dispnee  disfonie,pneumonie interstitiala suspect COVID19,NU,NU,NU,43933.0,NEGATIV
+X,MASCULIN,45.0,43933.0,ASIMPTOMATIC,43933.0,PANCREATITA CR,PANCREATITA CR ACUTIZATA,NU,NU,NU,43933.0,NEGATIV
+X,FEMININ,45.0,43933.0,DURERI EPIGASTRICE,43933.0,DURERE,PNEUMONIE LID  SUSPECT COVID 19,NU,NU,NU,43933.0,NEGATIV
+X,MASCULIN,66,43932.0,DURERI ABDOMINALE,43933.0,DURERI ABDOMINALE, pancreatita acuta,0.0,0.0,0.0,43933.0,NEGATIV
+X,MASCULIN,69.0,43933.0,febra tuse seaca,43934.0,febra tuse seaca,Insuficienta respiratorie acuta  bronhopneumonie virala  infectie COVID-19  HTA es. Std.III gr de risc c.v. foarte inalt  sdr. De hepatocitoliza,NU,NU,NU,43933.0,POZITIV
+X,MASCULIN,52.0,43927.0,febra dispnee durere toracica parestezii,43933.0,febra  dispnee  parestezii  durere,sdr febril suspect COVID19,NU,NU,NU,43933.0,POZITIV
+X,MASCULIN,64.0,43933.0,ASIMPTOMATIC,43933.0,FEBRA  DISPNEE  HEMATURIE,HEMATURIE MACROSCOPICA. PNA,NU,NU,NU,43933.0,NEGATIV
+Z,MASCULIN,36.0,43933.0,febra,43934.0,febra,pneumopatie LID susp.inf COVID 19,NU,NU,NU,43933.0,POZITIV
+X,MASCULIN,52.0,43930.0,febra,43933.0,febra,pneumopatie bazala stanga susp.inf Covid,NU,NU,NU,43933.0,NECONCLUDENT
+X,MASCULIN,52.0,43922.0,greturi,43934.0,greturi,susp.inf COVID 19 insuficienta renala,NU,NU,NU,43933.0,NECONCLUDENT
+X,MASCULIN,46.0,08.04 2020,durei abdominale,43929.0,dureri abdom,pancreatita acuta,NU,NU,NU,43933.0,NECONCLUDENT
+X,FEMININ,48.0,43932.0,scaune diareice  inapetenta,43932.0,scaune diareice,bronhopneumonie  sdr diareic  suspect COVID19,NU,NU,NU,43933.0,NEGATIV
+X,FEMININ,68.0,43931.0,palpitatii  bradicardie,43931.0,scurt episod de dispnee paroxistica,1. ritm jonctional  2. boala de nod sinusal in obs  3. Fia convertita la RS 4. Bradicardie simptomatica,NU,NU,NU,43933.0,NEGATIV
+X,FEMININ,22.0,43939.0,Asimptomatica,43939.0,ASIMPTOMATICA,Sarcina 11 saptamani in evolutie   emeza,NU,0.0,NU,43933.0,NEGATIV
+X,MASCULIN,70.0,43928.0,dureri abd,43928.0,dureri abdom,ciroza hepatica,NU,NU,NU,43933.0,NEGATIV
+X,MASCULIN,81.0,43933.0,DISPNEE,43933.0,DISPNEE  FATIGABILITATE,DISPNEE  EDEME  INSUFICIENTA CARDIACA,NU,NU,NU,43933.0,NEGATIV
+X,MASCULIN,58.0,43930.0,ASIMPTOMATIC,43933.0,AGITATIE PSIHOMOTORIE  VARSATURI,SDR SUBOCLUSIV  MALADIE ADERENTIALA  IRA ACUTA,NU,NU,NU,43933.0,NEGATIV
+X,FEMININ,70.0,43921.0,greturi  varsaturi  febra,43924.0,febra  varsaturi  dispnee  tuse seaca,Pneumonie interstitiala. Suspect COVID,NU,NU,nu cunoaste,43933.0,NEGATIV
+X,FEMININ,74.0,43929.0,hematurie,43934.0,hematurie,anemie severa  susp.inf Covid 19,NU,NU,NU,43934.0,NECONCLUDENT
+Y,FEMININ,52.0,43938.0,TUSE.ASTENIE.ODINOFAGIE,43941.0,TUSE.ASTENIE.ODINOFAGIE,TUSE.ASTENIE.LARINGITA AUTA,NU,NU,NU,43934.0,NECONCLUDENT
+X,MASCULIN,53.0,43927.0,febra dispnee tuse,43935.0,febra dispnee tuse,susp.Covid 19 pneumonie bilaterala,NU,NU,NU,43934.0,NECONCLUDENT
+Z,MASCULIN,84.0,43943.0,TUSE FEBRA DISPNEE,43947.0,TUSE FEBRA DISPNEE,SUSP.INF.COVID  PNEUMONIE AC.STANGA,NU,NU,NU,43934.0,NEGATIV
+X,MASCULIN,59.0,13.04.2020,sincopa,13.04.2020,sincopa,1.Sincopa 2.AIT repetat 3.Stenoza artere carotide,NU,NU,NU,43934.0,NEGATIV
+X,FEMININ,33.0,43934.0,sindrom febril,43934.0,sd.febril,retard mental cu tulburari de comportament,NU,NU,NU,43934.0,NECONCLUDENT
+X,MASCULIN,69.0,43928.0,astenie febra,43934.0,astenie febra,susp.Covid 19  pneumonie bilaterala,NU,NU,NU,43934.0,NECONCLUDENT
+X,FEMININ,22.0,43934.0,Asimptomatica,43934.0,Asimptomatica,Sarcina luna IX-a   fat viu  membrane intacte  prez. Cefalica  bazin osos stramtat  travaliu  sarcina nedispensarizata  fumatoare,NU,NU,NU,43934.0,NECONCLUDENT
+X,FEMININ,45.0,43965.0,ASIMPTOMATIC COVID,43969.0,ASIMPTOMATIC COVID,ABCES PARIETO-ABDOMINAL DE FLANC STG STARE SEPTICA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43934.0,NEGATIV
+X,MASCULIN,79.0,43934.0,ASIMPTOMATIC,13.04.2020,DURERI MEMBRU INFERIOR DREPT,CANGRENA HALUCE DRT.,NU,NU,NU,43934.0,NECONCLUDENT
+X,FEMININ,16.0,43930.0,idei delirante agitatie psihomotorie incoorenta gandirii,43934.0,fara semne de boala acuta  elemente psihotice,idei delirante  agitatie psihomotorie  Episod psihotic recurent acutizat,NU,NU,NU,43934.0,NEGATIV
+X,FEMININ,1,43931.0,tuse  dispnee edeme palpebrale,43934.0,subfebrilitati 37 3 tuse  spastica dispnee  raluri sibilante si subcrepitante diseminate bilat,Pneumonie acuta,0.0,0.0,0.0,43934.0,NECONCLUDENT
+X,FEMININ,81,43929.0,DURERI ABDOMINALE,43929.0,DUREI ABD,HEMORAGIE DIGESTIVA,NU,NU,NU,43934.0,NECONCLUDENT
+X,MASCULIN,30.0,43931.0,febra,43934.0,febra,pneumonie  suspect inf COVID 19,NU,NU,NU,43934.0,NEGATIV
+X,MASCULIN,48.0,43931.0,dispnee edeme ,43935.0,edeme dispnee,susp.Covid 19 bronhopneumonie acuta,NU,NU,NU,43934.0,NEGATIV
+X,MASCULIN,34.0,43929.0,tuse seaca,43934.0,tuse seaca,peumopatie bazala bilaterala supect inf COVID 19,NU,NU,DA,43934.0,POZITIV
+X,MASCULIN,78.0,43934.0,ASIMPTOMATIC,13.04.2020,DURERE ABDOMINALA  LIPSA TRANZIT DE 2 ZILE  GREATA  VARSATURI,OCLUZIE INTESTINALA. EVISCERATIE GLOCATA. STATUS POST ILEO-TRANSVERSO ANASTOMOZA. NEOPLASM COLON ASCENDENT,NU,NU,NU,43934.0,NECONCLUDENT
+X,MASCULIN,23.0,43931.0,DURERI ABDOMINALE  FEBRA,43934.0,DURERI ABD FEBRA,COLICA ABDOMINALA,PORTUGALIA IAN 2020,0.0,NU,43934.0,NEGATIV
+X,MASCULIN,20.0,43935.0,somnolenta,43936.0,somnolenta,Intoxicatie acuta medicamentoasa,nu,nu e cazul,nu,43935.0,NECONCLUDENT
+X,FEMININ,71.0,43932.0,tuse seaca  febra,43935.0,tuse seaca  febra,susp.Covid 19,nu,nu,nu,43935.0,NECONCLUDENT
+X,MASCULIN,73.0,43964.0,ASIMPTOMATIC,43964.0,ASIMPTOMATIC,AFEBRIL  NEO PLANSEU BUCAL,NEAGA,NU ESTE CAZUL,NU STIE,43935.0,NEGATIV
+X,FEMININ,                   27, 14.04.2020,Asimptomatica,43935.0,Asimptomatica,G I P I Sarcina luna a IX a. Fat viu  unlc. Prez. transversala. Bazin osos normal. Debut de travaliu.,NU,0.0,NU,43935.0,NECONCLUDENT
+X,FEMININ,62.0,43935.0,ASIMPTOMATIC COVID  DURERE IN FOSA ILIACA DRT  GRETURI,43935.0,ASIMPTOMATIC,APENDICITA ACUTA,NU A CALATORIT,NU E CAZUL,NU E CAZUL,43935.0,POZITIV
+X,MASCULIN,73.0,43935.0,ASIMPTOMATIC COVID  DURERE COAPSA DRT  TUMEFACTIE COAPSA DRT,43935.0,ASIMPTOMATIC,FRACTURA PERTROHANTERIANA DRRT,NU A CALATORIT,NU E CAZUL,NU E CAZUL,43935.0,POZITIV
+X,FEMININ,31.0,43935.0,nu are,43935.0,nu  are,Retard mental cu tulburari de comportament,nu,nu e cazul,nu,43935.0,NECONCLUDENT
+X,MASCULIN,27.0,43935.0,ASIMPTOMATIC,43935.0,ACCIDENT RUTIER,POLITRAUMATISM PRIN ACCIDENT RUTIER - MOTOCICLETA. MINIME CONTUZII CEREBRALE FRONTAL DR.,NU,NU,NU,43935.0,POZITIV
+X,FEMININ,84.0,43935.0,ASIMPTOMATIC COVID  HEMATURIE MACROSCOPICA ,43935.0,ASIMPTOMATIC,HEMATURIE MACROSCOPICA  FATIGABILITATE ,NU E CAZUL,NU E CAZUL,NU E CAZUL,43935.0,NECONCLUDENT
+X,FEMININ,67.0,43935.0,ASIMPTOMATIC COVID  DURERE BRAT STG  SI REGIUNEA UMARULUI STG,43935.0,ASIMPTOMATIC,FRACTURA  LUXATIE UMAR STG,NU A CALATORIT,NU E CAZUL,NU E CAZUL,43935.0,POZITIV
+X,MASCULIN,90.0,43930.0,febra  astenie,43932.0,febra,pneumonie LIDSI lls  suspect COVID19,NU,NU,NU,43935.0,POZITIV
+X,MASCULIN,69.0,43935.0,ASIMPTOMATIC,43935.0,DURERE LA NIVELUL MEMBRELOR  DISPNEE LA EFFORT,HIDRONEFROZA STG.LITIAZICA PE RINICHI UNIC FUNCTIONAL,NU,NU,NU,43935.0,NECONCLUDENT
+X,FEMININ,                   29, 14.04.2020,Asimptomatica,43935.0,Asimptomatica,G III PII Sarcina luna a IX a. Fat viu  unic. Prez. craniana. M.I. Bazin osos normal. Risc obstetrical crescut. Uter cicatricial.,NU,0.0,NU,43935.0,NECONCLUDENT
+X,MASCULIN,52.0,43935.0,nu are,43935.0,nu are,Retard mental cu tulburari de comportament severe,nu,nu e cazul,da,43935.0,NECONCLUDENT
+X,FEMININ,65.0,43931.0,febra astenie,43935.0,febra astenie,susp .Covid 19 pneumonie bilaterala,nu,nu,nu,43935.0,NECONCLUDENT
+X,FEMININ,63.0,43927.0,greturi tuse  dispnee,43935.0,greturi tuse dispnee,susp.Covid 19 pneumOnie bazala insuf.cardiaca,NU,NU,NU,43935.0,POZITIV
+X,MASCULIN,61.0,43935.0,DURERE. NECROZA PICIOR STG.,43935.0,ASIMPTOMATIC,DURERE SI NECROZA  PICIOR STG,NU E CAZUL,NU E CAZUL,NU E CAZUL,43935.0,NECONCLUDENT
+X,FEMININ,                   21, 14.04.2020,Asimptomatica,43935.0,Asimptomatica,GII PI Sarcina luna  a-IX a.Fat viu unic .Prez.craniana.MI.Bazin osos normal.Travaliu.,NU,0.0,NU,43935.0,NEGATIV
+X,MASCULIN,52.0,43918.0,tuse  dispnee,43927.0,tuse  dispnee  mialgii,Bronhopneumonie. Susp. Inf. COVID,DA,masina,nu cunoaste,43935.0,POZITIV
+X,MASCULIN,25,43935.0,nu are,43935.0,nu are,Agitatie psihomotorie.Tulburari mentale si de comportamet legate de consum de subst.psihoactive,nu,nu e cazul,nu,43935.0,NECONCLUDENT
+X,FEMININ,29.0,43935.0,Asimptomatica,43935.0,Asimptomatica,Asimptomatica,NU,NU,NU,43935.0,POZITIV
+Z,FEMININ,17.0,43963.0,convulsii tonico-clonice,43963.0,stare generala buna echilibrata cardio-pulmonar abdomen moale  fara semne de iritatie meningeana,Crize polimorfe in tratament .Sindrom convulsiv,Nu,Nu,Nu,43936.0,NEGATIV
+X,MASCULIN,82.0,43937.0,dispnee subfebra,43937.0,dispnee subfebra,susp.Covid 19 bronhopneumonie,nu,nu,nu,43936.0,NEGATIV
+X,FEMININ,20.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GI PI Sarcina 40/41 sapt. Fat viu unic. Prezentatie cefalica. Membrane intacte. Debut travaliu,Nu,0.0,nu,43936.0,NEGATIV
+X,MASCULIN,77,15.04.2020,Sindrom coronarian acut. DZ dezechilibrat,15.04.2020,sindrom coronarian acut,dureri precordiale  dispnee,nu,nu,NU,43936.0,NEGATIV
+X,FEMININ,17.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GI PI Sarcina Luna IX . Fat Viu  Mebrane Intacte. Prezentatie craniana. CUD.,nu,0.0,nu,43936.0,NEGATIV
+X,FEMININ,38.0,43936.0,Tuse,43936.0,Tuse,GI PI Sarcina 33/34 sapt. Fat viu. Unic.Prey cefalica. Membrane intacte. ROC.Placenta jos inserata cu metroragie minimala.,NU,0.0,NU,43936.0,NEGATIV
+X,MASCULIN,25.0,43936.0,durere antebrat stang,43936.0,ASIMPTOMATIC,DURERE ANTEBRAT STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,43936.0,NEGATIV
+X,FEMININ,30,43937.0,Asimptomatica,43936.0,Asimptomatica,Sarcina 37-38 saptamani. Fat viu. Prezentatie cefalica. Insuficienta cervico+istmica. Cerclaj,NU,0.0,nu,43936.0,NEGATIV
+X,MASCULIN,51.0,43935.0,nu are,43935.0,nu are,Agitatie psihomotorie.Tulburari de comportament legate de consumul de alcool.,nu,nu e cazul,nu,43936.0,NEGATIV
+X,FEMININ,34.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GI PI Sarcina 40/41 sapt. Fat viu. Unic.Prey cefalica. Membrane intacte. ROC. Rh NEGATIV. DEBUT TRAVALIU,NU,0.0,NU,43936.0,NEGATIV
+X,FEMININ,31,43936.0,Asimptomatica,43936.0,Asimptomatica,GIII PIII Sarcina 37/38 sapt. Fat viu . Asezare transversa. RO. Uter dublu cicatricial placenta joasa,Nu,0.0,nu,43936.0,NEGATIV
+X,MASCULIN,62.0,43933.0,dispnee febra,43966.0,dispnee febra,susp.Covid 19 pneumopatie,nu,nu,nu,43936.0,POZITIV
+X,FEMININ,31.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GII PII Sarcina 38/39 sapt. Fat viu unic. Prey craniana. Membrane Intacte.Uter cicatricial. ROC. Debut travaliu.,nu,0.0,nu,43936.0,NEGATIV
+X,FEMININ,25,43936.0,Asimptomatica,43936.0,Asimptomatica,GI PI sarcina 38/39 saptamani. Fat viu  unic. Prey Craniana. Bayin normal. Debut travaliu,nu,0.0,nu,43936.0,NEGATIV
+X,FEMININ,30.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GII PII Sarcina 38/39 sapt. Fat viu unic. Prey craniana. Membrane Intacte.RH negativ.,NU,0.0,nu,43936.0,NEGATIV
+X,FEMININ,39.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GI PI Sarcina 38/39 sapt. Fat viu Unic. Prez.cefalica. ROC,nu,0.0,nu,43936.0,NEGATIV
+X,FEMININ,52.0,43936.0,Asimptomatica,43936.0,Asimptomatica,GII PIII Sarcina 36/37 sapt. Feti vii  ambii in prezentatie craniana M.i. FIV Rh Negativ,nu,0.0,nu,43936.0,NEGATIV
+X,FEMININ,86.0,43936.0,ASIMPTOMATIC COVID  DURERE REG INGHINALA DRT  FORM PROTRUZIVA REG INGHINALA DRT,43936.0,ASIMPTOMATIC,DURERE REG INGHINALA DREAPTA  FORMATIUNE PROTRUZIVA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43936.0,NEGATIV
+X,MASCULIN,49.0,43923.0,tuse seaca febra,43934.0,tuse seaca febra,susp.COVID 19 HTA,NU,NU,NU,43936.0,NEGATIV
+X,FEMININ,24.0,43936.0,Asimptomatica,43936.0,Asimptomatica,G III PIII Sarcina luna a IX-a. Fat viu  unic. Prezentatie craniana. Membrane intacte. Bazin eutocic. Expulzie. Sarcina neinvestigata,Nu,0.0,Nu,43936.0,NEGATIV
+X,FEMININ,                   32, 14.04.2020,TUSE,43935.0,TUSE T-37 3,G III P III Sarcina 39 sapt. Fat viu unic . Prez. Craniana. M.I Bazin Osos normal. Debut  de travaliu. Risc Obstetrical  crescut. HTAIS,NU,0.0,NU,43937.0,NEGATIV
+X,FEMININ,28.0,43932.0,nu are,43932.0,nu are,Schizofrenie paranoida.,nu,nu e cazul,nu,43937.0,NEGATIV
+Y,FEMININ,46.0,43935.0,TUSE FEBRA ASTENIA,43942.0,TUSE   FEBRA  ASTENIE,SUSPICIUNNE   SARS  COV-2  PNEUMONIE STANGA,NU,NU,NU,43937.0,NEGATIV
+X,FEMININ,49.0,16.04.2020.,fara acuze,43937.0,fara acuze,suspiciune inf COVID 19,nu,nu,nu,43937.0,NEGATIV
+X,MASCULIN,28.0,43937.0,DURERE HEMITORACE DREPT  DISPNEE,43937.0,ASIMPTOMATIC,DISPNEE  DURERE HEMITORACE DREPT,NU E CAZUL,NU E CAZUL,NU E CAZUL,43937.0,NEGATIV
+X,FEMININ,62.0,43925.0,dispnee  tuse,43928.0,dispenee  tuse  febra  diaree,Pneumonie dubla,NU,NU,nu cunoaste,43937.0,NEGATIV
+X,FEMININ,54.0,43937.0,HDS,43937.0,DURERI ABDOMINALE,HEMORAGIE DIGESTIVA,0.0,0.0,0.0,43937.0,NEGATIV
+X,MASCULIN,72.0,43937.0,durere membru inferior stang,43937.0,DURERE  NECROZA DEGET MEMBRU INFERIOR STANG,NECROZA DEGET III MEMBRU INFERIOR STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,43937.0,NEGATIV
+X,MASCULIN,47.0,43926.0,febra tuse,43929.0,febra tuse,Infiltrat pneumonic paracardiac stang HTA DZ 2,NU,NU,NU,43937.0,NEGATIV
+X,MASCULIN,7.0,43930.0,tuse spastica  dispnee obstructie nazala,43937.0,afebril  apetent  facies palid  incercanat buze uscate tuse spastica raluri sibilante diseminate,PNEUMONIE ACUTA OBSTRUCTIVA. IRA USOARA,NU E CAZUL,NU,NU,43937.0,NEGATIV
+X,MASCULIN,71.0,43965.0,ASIMPTOMATIC,43965.0,ASIMPTOMATIC,AFEBRIL  NEO BRONHOPULMONAR,NEAGA,NU ESTE CAZUL,NU STIE,43937.0,NEGATIV
+X,FEMININ,21.0,43937.0,Asimptomatica,43937.0,Asimptomatica,GIPI Sarcina l a IX a.Fat viu unic.Prezentatie pelviana.MI.Bazin osos normal.Debut de travaliu,NU,0.0,NU,43937.0,NEGATIV
+X,FEMININ,56.0,43937.0,IOT,43937.0,GRAVA,insuf respiratorie covid pozitiv,nu,nu,nu,43937.0,POZITIV
+X,MASCULIN,80.0,43935.0,frisoane  tuse,43938.0,dispnee tuse seaca,susp.Covid 19  pneumonie interstitiala,nu,nu,nu,43937.0,POZITIV
+X,FEMININ,57.0,43936.0,nu are,43915.0,nu are,Tulburare deliranta persistenta.,nu,nu e cazul,nu,43937.0,NEGATIV
+X,FEMININ,53.0,44019.0,ASIMPTOMATICA,44019.0,ASIMPTOMATICA,METROPATIE HEMORAGICA IN CLIMAX,NU,NU,NU,43937.0,NEGATIV
+X,FEMININ,23.0,43937.0,Asimptomatica,43937.0,Asimptomatica,GII PI Sarcina luna  a-IX a.Fat viu unic .Prez.craniana.MR.Bazin osos normal.Debut de travaliu. Anemie secundara.,NU,0.0,NU,43937.0,NEGATIV
+X,MASCULIN,76.0,43929.0,febra  dispnee,08 04 2020,agravat  iot,insuf respiratorie,nu,nu,nu,43937.0,NEGATIV
+Z,MASCULIN,58.0,43963.0,ASIMPTOMATIC,43963.0,ASIMPTOMATIC,AFEBRIL  NEO PANCREAS,NEAGA,NU ESTE CAZUL,NU STIE,43937.0,NEGATIV
+X,MASCULIN,39.0,43938.0,nu are,43938.0,nu are,Tulburari de comportament datorate consumului de alcool. Agitatie psihomotorie.,nu,nu e cazul,nu,43938.0,NEGATIV
+Y,MASCULIN,44.0,43934.0, FEBRA  TUSE   TRANSPIRARII,43942.0,TUSE FEBRA,SUSPICIUNE SARS  COV  -2 PNEUMONIE INTERSTAILA   DREAPTA,MU,NU,DA,43938.0,NEGATIV
+X,MASCULIN,3.0,43933.0,febra  39 8-40 *c inapetenta,43939.0,afebril inapetent amigdale hipertrofice hiperemice cu depozite pultacee disfagie pulm fara raluri,ANGINA ACUTA ERITEMATO-PULTACEE TULBURARI DE SPECTRU AUTIST,NU E CAZUL,NU,NU,43939.0,NEGATIV
+X,MASCULIN,45.0,43936.0,nu are,43918.0,nu are,Schizofrenie paranoida,nu,nu e cazul,nu,43939.0,NEGATIV
+X,FEMININ,52.0,43939.0,ASIMPTOMATIC COVID HEMATURIE MACROSCOPICA,43939.0,ASIMPTOMATIC,ABDOMEN ACUT CHIRURGICAL,NU E CAZUL,NU E CAZUL,NU E CAZUL,43939.0,NEGATIV
+X,FEMININ,51.0,43929.0,febra tuse seaca astenie,43936.0,febra tuse seaca astenie,susp.Covid 19.insuf.respiratorie,nu,nu,nu,43939.0,NEGATIV
+X,FEMININ,71.0,43937.0,febra  frisoane  mialgii  cefalee  tuse,43939.0,febra  frisoane  mialgii  cefalee  tuse,SUSP. Covid 19  diabet zaharat tip II  infarct miocardic,nu,nu,nu,43939.0,POZITIV
+X,FEMININ,33.0,43939.0,Asimptomatica,43939.0,ASIMPTOMATICA,Sarcina 36/37 saptamani  membrane rupte  fat viu  craniana  uter cicatricial  debut de travaliu,NU,0.0,NU,43939.0,NEGATIV
+X,FEMININ,41.0,43937.0,nu are,43937.0,nu are,Schizofrenie paranoida.,nu,nu e cazul,nu,43939.0,NEGATIV
+X,FEMININ,59.0,43923.0,greata diaree stare gen  alterata,43937.0,greata  astenie dureri musculare,Susp cov 19 Enterocolita acuta,nu,nu,nu,43939.0,POZITIV
+X,FEMININ,46.0,43936.0,nu are,43875.0,nu are,Tulburare deliranta persistenta.,nu,nu e cazul,nu,43939.0,NEGATIV
+X,MASCULIN,87.0,09 05 2020,TCC.CONTUZIE CEREBRALA,09 05 2020,ASIMPTOMATIC COVID,TCC AC INCHIS.CONTUZIE CEREBRALA.HEMATOM SUBDURAL,NU E CAZUL,NU E CAZUL,NU E CAZUL,43939.0,NEGATIV
+X,MASCULIN,50.0,43939.0,ASIMPTOMATIC COVID TRAUMATISM COLOANA CERVICALA+LOMBARA,43939.0,ASIMPTOMATIC,POLITRAUMATISM PRIN CADERE DE LA INALTIME TRAUMATISM COLOANA CERVICALA+LOMBARA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43939.0,NEGATIV
+X,MASCULIN,24.0,43936.0,nu are,43936.0,nu are,Episod psihotic acut.,nu,nu e cazul,nu,43939.0,NEGATIV
+X,FEMININ,63.0,43939.0,dispnee  febra  tuse  greturi  varsaturi,43939.0,dispnee  febra  tuse  greturi  varsaturi,susp.Covid 19  mielom multiplu  boala cronica de rinichi,nu,nu,nu,43939.0,NEGATIV
+X,FEMININ,13.0,43939.0,DURERE ABDOMINALA  FEBRA  VARSATURI,43939.0,DURERE ABDOMINALA  FEBRA  VARSATURI,Apendicita acuta gangrenoasa,NU,0.0,NU,43939.0,NEGATIV
+X,MASCULIN,48,43939.0,ASIMPTOMATIC COVID DIFICULTATI RESPIRATORII TEMPERATURA=37 4,43939.0,ASIMPTOMATIC,POLITRAUMATISM PRIN CADERE DE PE BICICLETA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43939.0,NEGATIV
+X,FEMININ,68.0,43936.0,nu are,43920.0,nu are,Schizofrenie paranoida.,nu,nu e cazul,nu,43939.0,NEGATIV
+X,MASCULIN,38.0,43924.0,febra  astenie fizica marcata  inapetenta,43933.0,febra  inapetenta  oboseala,sdr. Febril  susppect covid 19,da-Suedia  intors in 1 martie,masina,NU,43939.0,NEGATIV
+X,MASCULIN,32.0,43938.0,dispnee tuse iritativa,43940.0,dispnee tuse iritativa,susp.Covid 19 pneumopatie interstitiala,nu,nu,nu,43940.0,NEGATIV
+X,MASCULIN,32.0,43940.0,Subfebrilitate  tuse seaca,43940.0,subebrilitati,Suspiciune SARS COV  -02pneumopatie lob inferior drept,nu are,nu are,DA,43940.0,POZITIV
+X,FEMININ,1.0,43933.0,febra tuse inapetenta,43940.0,facies incercanat pulm.MV inasprit bilat.ronhusuri bronsice sibilante si ronflante,PNEUMOPATIE ACUTA IRA HIPERPIREXIE,NU E CAZUL,NU,NU,43940.0,NEGATIV
+Y,FEMININ,83.0,44002.0,HIPOGLICEMIE REMISA  TULBURARAI DE RITM,44005.0,HIPOGLICEMIE  TULBURARI DE RITM,DZ TIP II NOU DESCOPERIT  HTA  AVC SECHELAR  SDR. DE CITOLIZA SUSPICIUNE INFECTIE SARS-COV-2,NU,NU,NU,43940.0,NEGATIV
+X,FEMININ,21.0,43940.0,ASIMPTOMATICA,43940.0,ASIMPTOMATICA,G V P II Sarcina 34/35 saptamani. Fat viu  unic. Prezentatie craniana. Bazin osos normal. ANP. Uter cicatricial.,NU,0.0,NU,43940.0,NEGATIV
+X,FEMININ,35.0,43940.0,ASIMPTOMATICA,43940.0,ASIMPTOMATICA,GI PI SARCINA 37/38 SAPT.FAT VIU MR. UNIC PREZENTATIE CRANIANA.PRIMIPARA IN VARSTA.,NU,0.0,NU,43940.0,POZITIV
+X,FEMININ,47.0,43940.0,ASIMPTOMATIC COVID,43940.0,ASIMPTOMATIC,INSUFICIENTA RESPIRATORIE ACUTA  SECUNDARA FORM.TUM. PULMONARA  DETERIORARI SEC. OSOASE MEDIASTINALE ADENOPATIELATEROCERVICALA BILATERALA. IMUNOTERAPIE  CHIMIOTERAPIE,NU E CAZUL,NU E CAZUL,NU E CAZUL,43940.0,NEGATIV
+X,MASCULIN,9.0,18.04.2020,FEBRA,19.02.2020,FEBRA TUSE,SUSPECT COVID 19,0.0,0.0,DA,43940.0,POZITIV
+X,FEMININ,34.0,43935.0,dispnee insomnii,43940.0,dispnee insomnii,susp.Covid 19 distonie neuro-vegetativa,nu,nu,nu,43940.0,POZITIV
+X,MASCULIN,74.0,43940.0,Febra moderata   lipotimie,43940.0,Temp   38.9 lipotimic,  Suspiciune SARS  COV -2 sindrom febril  sindrom acut  de deshidratare,nu are,nu are,nu,43940.0,NEGATIV
+X,MASCULIN,64.0,43936.0,febra  dispnee,43936.0,influentata pozitiv,insuf respiratorie,nu,nu,nu,43940.0,POZITIV
+X,MASCULIN,3 ,43940.0,PLAGI MUSCATE CAINE MULTIPLE,43940.0,PLAGI MUSCATE CAINE MULTIPLE,PLAGI MUSCATE(CAINE) FRONTAL  PIRAMIDA NAZALA  PALPEBRAL STG.  NAZO-GENIAN STG.  ANTEBRAT STG.,NU,0.0,NU,43940.0,NEGATIV
+X,MASCULIN,50.0,43940.0,ASIMPTOMATIC COVID,43941.0,ASIMPTOMATIC,TRAUMATISM COLOANA CERVICALA  Anterolistezis C5-C6,NU E CAZUL,NU E CAZUL,NU E CAZUL,43940.0,NEGATIV
+X,FEMININ,21.0,43940.0,ASIMPTOMATICA,43940.0,ASIMPTOMATICA,G II P II Sarcina 40 saptamani. Fat viu  unic. Membrane intacte. Prezentatie cefalica. Bazin osos normal. ROC. Obezitate. Edeme membre inferioare,NU,0.0,NU,43940.0,NEGATIV
+X,FEMININ,50,43935.0,TUSE FEBRA    FRISON,43941.0,TUSE  FEBRA FRISON,SUSPICIUNNE   SARS  COV-2NEO MAMAR  OPERAT  DZ  TIP   II  HTA,NU,NU,NU,43941.0,NECONCLUDENT
+X,FEMININ,3,43939.0,febra  epistaxis  inapetenta constipatie,43941.0,faringe congestionat  tegumente palide,AMIGDALITA ACUTA. EPISTAXIS,NU,NU,NU,43941.0,NEGATIV
+X,MASCULIN,2 LUNI,43939.0,VARSATURI,43939.0,afebril tegumente palide pliu later-abdominal lenes  pulm.MV normal fara raluri,SAD GR II PRIN VARSATURI STENOZA HIPERTROFICA DE PILOR IN OBS,NU E CAZUL,NU,NU,43941.0,NEGATIV
+X,FEMININ,29.0,43939.0,Asimptomatica,43939.0,ASIMPTOMATICA,Sarcina 37 saptamani  fat viou unic  membrane rupte  debut de travaliu,NU,0.0,NU,43941.0,NEGATIV
+X,MASCULIN,67.0,43938.0,febra tuse seaca mialgii,43941.0,febra tuse seaca mialgii,susp.Covid 19 diabet zaharat  bronhopneumonie,nu,nu,nu,43941.0,NEGATIV
+X,FEMININ,44,43941.0,ASIMPTOMATIC COVID,43941.0,ASIMPTOMATIC,AUTOAGRESIUNE PLAGI LA NIVELUL GITULUI SI ANTEBRAT TENTATIVA SUICID,NU E CAZUL,NU E CAZUL,NU E CAZUL,43941.0,NEGATIV
+X,MASCULIN,59.0,43938.0,TUSE    FEBRA,43941.0,TUSE   FEBRA,SUSPICIUNNE   SARS  COV-2  DIABET   ZAHARAT  TIPII  HTA,NU,NU,NU,43941.0,NEGATIV
+X,FEMININ,31,43938.0,DISFAGIE  PIERDERE  GUST   MIROS,43941.0,DISFAGIE  PIERDERE  GUST   MIROS,SUSPICIUNE   SARS COV  2  SARCINA 20 SAPTAMINI IN EVOLUTIE,DA,MASINA PERSONALA,DA,43941.0,NEGATIV
+X,FEMININ,18.0,43941.0,ASIMPTOMATICA,43941.0,ASIMPTOMATICA,G I P I Sarcina 38/39 saptamani. Fat viu  unic. Membrane intacte. Prezentatie cefalica. Bazin osos normal. Debut de travaliu,NU,0.0,NU,43941.0,NEGATIV
+X,MASCULIN,37.0,43938.0,adinofagii dispnee,43941.0,dispnee adinofagie,susp. COVID 19  pneumopatie interstitiala,nu,nu,nu,43941.0,NEGATIV
+X,MASCULIN,70.0,43941.0,tuse seaca astenie dispnee,43941.0,tuse seaca astenie dispnee,susp.Covid 19 bronhopneumonie DZ II,nu,nu,nu,43941.0,POZITIV
+X,MASCULIN,72.0,43941.0,DEFICIT MOTOR  FEBRA,43941.0,DEFICIT MOTOR,SUSPICIUNE SARS  COV  -2 ACCIDENT VASCULAR ISCHEMIC,NU,NU,NU,43941.0,NECONCLUDENT
+X,FEMININ,25.0,43938.0,TUSE  FEBRA,43941.0,TUSE  FEBRA,SUSPICIUNE SARS  COV  -2 SINDROM FEBRIL,DA,MASINA PERSONALA,DA,43941.0,NEGATIV
+X,FEMININ,19,43938.0,TUSE,43941.0,TUSE. TRANSPIRATII,SUSPICIUNE SARS  COV  -2 SINDROM CEFALALGIC,DA,MASINA PERSONALA,DA,43941.0,NEGATIV
+X,FEMININ,29.0,43938.0,TUSE  FEBRA,43941.0,TUSE FEBRA,SUSPICIUNE SARS  COV  -2 PNEUMONIE INTERSTAILA,DA,MASINA PERSONALA,DA,43941.0,NEGATIV
+X,FEMININ,24.0,43941.0,ASIMPTOMATICA,43941.0,ASIMPTOMATICA,GII P II SARCINA 8/9 SAPTAMANI OPRITA IN EVOLUTIE,NU,0.0,NU,43941.0,NEGATIV
+X,MASCULIN,33,43939.0,TRANSPIRATII  VERTIJ DURERI ABDOMINALE,43941.0,TRANSPIRATII  VERTIJ DURERI ABDOMINALE,SUISPICIUNE SARS COV 2 BOALA CRONICA DE RINICHI  ST  II,DA,MASINA PERSONALA,DA,43941.0,NEGATIV
+X,FEMININ,31.0,43941.0,ASIMPTOMATICA,43941.0,ASIMPTOMATICA,Avort in curs luna I/II. Anemie secundara,NU,0.0,NU,43941.0,NEGATIV
+X,MASCULIN,68,43941.0,tuse seaca varsaturi,43941.0,Dureri toracice,Suspiciune SARS- COV  02  Pneumopatie intersitiala  HTA,nu are,nu are,da,43941.0,POZITIV
+X,FEMININ,41.0,20.04.2020,ASIMPTOMATICA,20.04.2020,ASIMPTOMATICA,Sarcina 38/39 saptamani.  Membrane intacte. PREZENTATIE CEFALICA.,NU,0.0,NU,43941.0,NEGATIV
+Z,FEMININ,16.0,43938.0,varsaturi  scaune diareice  dureri abdominale,43942.0,faringe hiperemic  amigdale hipertrofice epigastralgii tranzit intestinal accelerat  varsaturi bilioase,Gastroenterita acuta. Sdr. dureros abdominal.SAD gr II,nu,nu,nu,43942.0,NEGATIV
+X,MASCULIN,67.0,43959.0,ASIMPTOMATIC,43959.0,ASIMPTOMATIC,AFEBRIL  NEO BRONHOPULMONAR,NEAGA,NU ESTE CAZUL,NU STIE,43942.0,NEGATIV
+Z,MASCULIN,60.0,43928.0,TUSE SEACA DISPNEE,43942.0,TUSE SEACA DISPNEE,SUSP.INF COVID19 BRONHOPNEUMONIE,NU,NU,NU,43942.0,NEGATIV
+X,FEMININ,25.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GIII PIII    Sarcina  luna a IX-a. Fat viu unic.Membrane intacte.Bazin osos. Travaliu. Uter cicatricial,nu,0.0,nu,43942.0,NEGATIV
+Y,FEMININ,35.0,43942.0,TUSE,43942.0,TUSE,GVII PIII SARCINA LUNA IX-A FAT VIU UNIC PREZ CEFALICA  MI BAZIN EUTOCIC DEBUT DE TRAVALIU SARCINA NEINVESTIGATA,NU,0.0,NU,43942.0,NEGATIV
+X,FEMININ,21.0,43942.0,greturi  varsaturi  frisoane,43942.0,greturi varsaturi frisoane,greturi varsaturi frisoane,Nu a calatorit,Nu,Nu,43942.0,NEGATIV
+X,FEMININ,59.0,43959.0,ASIMPTOMATIC,43959.0,ASIMPTOMATIC,AFEBRIL  NEO BRONHOPULMONAR,NEAGA,NU ESTE CAZUL,NU STIE,43942.0,NEGATIV
+Y,MASCULIN,72.0,43942.0,ASIMPTOMATIC COVID,43942.0,ASIMPTOMATIC,GANGRENA FOURNIER. DZ TIP II,NU E CAZUL,NU E CAZUL,NU E CAZUL,43942.0,NEGATIV
+Y,FEMININ,16.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GI PI SARCINA LUNA IX-A FAT VIU UNIC PREZ.CEFALICA MI BAZIN OSOS LIMITAT DEBUT DE TRAVALIU SARCINA NEINVESTIGATA MINORA,NU,0.0,NU,43942.0,NEGATIV
+Z,FEMININ,65.0,43942.0,ASIMPTOMATIC COVID,43942.0,ASIMPTOMATIC,GANGRENA DIABETICA MEMBRU INFERIOR STANG  DZ.TIP II,NU E CAZUL,NU E CAZUL,NU E CAZUL,43942.0,NEGATIV
+Y,MASCULIN,23,21 04 2020,asimptomatic,21 04 2020,nu are,Tulburari mentale datorita consumului de substante psihoactve,nu ,nu e cazul,nu,43942.0,NEGATIV
+X,FEMININ,28.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA, GI PI SARCINA 39/40 SAPT. FAT VIU  UNIC. PREZ CEFALICA . M.i.  BAZIN NORMAL. DEBUT TRAVALIU,NU,0.0,NU,43942.0,NEGATIV
+Y,FEMININ,51,43942.0,FEBRA  ,43942.0,TUSE  FEBRA ,SUSPICIUNNE   SARS  COV-2  ERTEM  NODOS  LITAZA RENALA,NU,NU,NU,43942.0,NEGATIV
+X,FEMININ,64.0,43942.0,febra frison,43942.0,febra frison,susp.Covid 19 pneumopatie interstitiala,nu,nu,da,43942.0,NEGATIV
+X,FEMININ,32.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GIIPI Sarcina 39/40 sapt. Fat viu unic. Prez cefalica. MI: Debut travaliu,nu,0.0,nu,43942.0,NEGATIV
+Z,FEMININ,29,43942.0,DURERI TORACICE VARSATURI  DURERI ABDOMINALEQ,43942.0,DURERI ABDOMINALE DURERI TORACICE   VARSATURI ,SUISPICIUNE SARS COV 2 MELANOM MALIGN,NU,NU,NU,43942.0,NEGATIV
+Z,FEMININ,72.0,2                                                          20.04.2020,AMETELI LIPOTIMIE,43942.0,STARE DE SLABICIUNE   PALPITATII                                                                                                                                                                                                                        ,SUSPICIUNE   SARS COV  2    FIBRILATIE,NU,NU,NU,43942.0,NEGATIV
+X,FEMININ,19.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GII PI Sarcina 37/38 sapt. Prez. Cefalica.M. Intacte.ROC: IUGR. Anemie secundara.,NU,0.0,Nu,43942.0,NEGATIV
+X,FEMININ,52.0,43958.0,dispnee,43958.0,dispnee,Insuficienta respiratorie ac.Suspiciune SARS CoV 2.DZ tip II.Obezitate gr.II.BCR in program de HD,NU,NU,NU,43942.0,NEGATIV
+Y,MASCULIN,53.0,43986.0,dispnee  fatigabilitate,43986.0,dispnee  fatigabilitate  astenie,Insuficienta respiratorie acuta. Suspiciune infectie SARS Cov-2. Abces pulmonar LID si mediastinal. IRC in program de hemodializa. HTA std.III. DZ tip II insulino-necesitant,nu,nu,nu,43942.0,NEGATIV
+Y,FEMININ,38.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,ENDOMETRITA HEMORAGICA POST AB  SANGERARE ABUNDENTA,NU,0.0,NU,43942.0,NEGATIV
+Y,FEMININ,71.0,43941.0,TUSE FEBRA,43942.0,TUSE FEBRA,SUSP.INF.COVID19 PRONHOPNEUMONIE,NU,NU,NU,43942.0,POZITIV
+Z,MASCULIN,84.0,43942.0,OLIGURIE SCAUNE CU SANGE ROSU,43943.0,OLIGURIE SCAUNE CU SANGE ROSU,SUSP.INF.COVID19 LEUCEMIE AC,NU,NU,NU,43942.0,NEGATIV
+X,MASCULIN,72.0,43942.0,febra  dispnee,43942.0,GRAVA,insuf respiratorie,nu,nu,nu,43942.0,NEGATIV
+Z,MASCULIN,74.0,43942.0,ASIMPTOMATIC COVID,43942.0,ASIMPTOMATIC,FRACTURA PERTROHANTERIANA FEMUR DRT.,NU E CAZUL,NU E CAZUL,NU E CAZUL,43942.0,NEGATIV
+Z,FEMININ,83.0,43941.0,DURERI MEMBRUL INFERIOR DREPT,43942.0,DURERI MEMBRUL INFERIOR DREPT,SUSPICIUNE SARS  COV 2  ARTERIPATIE OBLITERNATA CRONICA,NU,NU,NU,43942.0,NEGATIV
+Y,MASCULIN,51,43938.0,210420.0,43938.0,DURERI   TORACUCE,SUSPICIUNE SARS COV 2  ANGINA PECTORALA,NU,NU,NU,43942.0,NEGATIV
+Y,FEMININ,25.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GI PI SARCINA LUNA IX-A FAT VIU UNIC PREZ CRANIANA MI BAZIN OSOS NORMAL DEBUT DE TRAVALIU,NU,0.0,NU,43942.0,NEGATIV
+X,MASCULIN,73.0,43979.0,ASIMPTOMATIC,43979.0,ASIMPTOMATIC,AFEBRIL  NEO RECTAL,NEAGA,NU ESTE CAZUL,NU STIE,43942.0,NEGATIV
+X,FEMININ,14.0,20.04.2020,ASIMPTOMATICA,43941.0,ASIMPTOMATICA,Avort in curs luna aII -a,nu,0.0,nu,43942.0,NEGATIV
+Y,FEMININ,34.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,IIGIIP Sarcina 41 saptamani .Fat viu unic .Prezentatie craniana .M.I.Bazin eutocic .TRAVALIU,NU,0.0,NU,43942.0,NEGATIV
+X,FEMININ,62.0,43955.0,ASIMPTOMATIC,43955.0,ASIMPTOMATIC,AFEBRIL  NEO RENAL,NEAGA,NU ESTE CAZUL,NU STIE,43942.0,NEGATIV
+Z,MASCULIN,87.0,43943.0,febra melena,43943.0,Grava,Insuficienta respiratorie. Suspiciune SARS COV 2. BPOC ,NU,NU,NU,43942.0,NEGATIV
+X,FEMININ,32.0,43942.0,ASIMPTOMATICA,43941.0,ASIMPTOMATICA,GII PII  SARCINA 38/39 SAPT. VAT VIU UNIC. PREZ.CEFALICA. M.I. BAZIN OSOS NORMAL. ROC. UTER CICATRICIAL.,NU,0.0,NU,43942.0,NEGATIV
+Y,MASCULIN,81.0,43986.0,ASTENIE PALOARE,43993.0,ASTENIE PALOARE,BCR ANEMIE SEC.,NU,NU,NU,43942.0,NEGATIV
+Z,FEMININ,6.0,43942.0,edeme plapebrale  eruptie tegumentara  tuse seaca,43942.0,tegumente palide  edeme palpebrale  limba saburala  amigdale cu depozite pultacee tuse rara  elemente micromaculopapuloase,Edem Quinke. Teren atopic.Amigdalita eritemato-pultacee,nu,nu,nu,43942.0,NEGATIV
+Z,FEMININ,65.0,43940.0,DISPNEE FATIGABILITATE,43942.0,DISPNEE FATIGABILITATE,SUSP.INF.COVID19 BRONHOPNEUMONIE,NU,NU,NU,43942.0,NEGATIV
+Z,FEMININ,91.0,43935.0,DISPNEE FATIGABILITATE,43942.0,DISPNEE FATIGABILITATE,SUSP.INF COVID19 FIBRILATIE ATRIALA,NU,NU,NU,43942.0,NEGATIV
+Z,MASCULIN,77.0,43942.0,ASIMPTOMATIC COVID,43943.0,ASIMPTOMATIC,HERNIE INGHINALA DREAPTA STRANGULATA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43942.0,NEGATIV
+Y,FEMININ,28.0,43942.0,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GII PI SARCINA LUNA IX-A FAT VIU UNIC PREZ CEFALICA MI BAZIN EUTOCIC DEBUT DE TRAVALIU UTER CICATRICEAL,NU,0.0,NU,43942.0,NEGATIV
+Z,FEMININ,74,43942.0,PALPITATII,43942.0,PALPITATII,TAHICARDIE VENTRICULARA,0.0,0.0,0.0,43942.0,NEGATIV
+Z,MASCULIN,34.0,43942.0,ASIMPTOMATIC COVID,43942.0,ASIMPTOMATIC,PLAGA CONTUZA (PISTOL CU PRESIUNE-VOPSEA)  FARA ANTECEDENTE F3 INDEX STG. CU SEMNE INFLAMATORII MARCATE,NU E CAZUL,NU E CAZUL,NU E CAZUL,43942.0,NEGATIV
+Y,FEMININ,27.0,21.04202,ASIMPTOMATICA,43942.0,ASIMPTOMATICA,GIPI.Sarcina luna A-IX A.Fat viu unic Prez.Craniana M.i. Bazin osos normal.ROC RH-.Metroragie minimala,NU,0.0,NU,43942.0,NEGATIV
+Z,FEMININ,73.0,43938.0,TUSE DISPNEE,43942.0,TUSE DISPNEE,SUSP.INF COVID19 PNEUMONIE DZTIP1 FIA,NU,NU,NU,43942.0,POZITIV
+Y,FEMININ,10.0,21.04.2020,tegumente palide,21.04.2020,tegumente palide,Suspect infectie COVID-19,0,0,da( focar familial),43942.0,NEGATIV
+Z,MASCULIN,55.0,43937.0,TUSE SUBFEBRILITATI,43942.0,TUSE SUBFEBRILITATI,SUSP.INF.COVID19 BRONHOPNEUMONIE,NU,NU,NU,43942.0,POZITIV
+Z,MASCULIN,84.0,43932.0,DISPNEE TUSE SEACA,43942.0,DISPNEE TUSE SEACA,SUSP.COVID19 INSUF.RESPIRATORIE,NU,NU,NU,43942.0,NEGATIV
+Z,MASCULIN,73.0,43935.0,DISFAGIE TUSE SEACA FEBRA,43942.0,TUSE SEACA FEBRA DISFAGIE,SUSP.INF.COVID19 DZ TIP2,NU,NU,NU,43942.0,NEGATIV
+Y,MASCULIN,47.0,43942.0,asimptomatic,43942.0,nu are,Schizofrenie pranoida,nu ,nu e cazul,nu,43942.0,NEGATIV
+Z,MASCULIN,9 ani,43942.0,fara,43942.0,stare generala buna  afebril  apetent tegumente palide faringe normal colorat amigdale hipertrofice  buze uscate abdomen moale  nedureros,Rectocolita ulcero-hemoragica,nu,nu,nu,43942.0,NEGATIV
+Z,MASCULIN,76.0,43943.0,ASIMPTOMATIC COVID,43943.0,ASIMPTOMATIC,FRACTURA PERTROHANTERIANAFEMUR STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Z,MASCULIN,35.0,43943.0,ASIMPTOMATIC COVID,43943.0,ASIMPTOMATIC,FRACTURA SUBTROHANTERIANA FEMUR STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Z,MASCULIN,14.0,43943.0,prurit intens  eruptie maculopapuloasa  edeme palpebrale,43943.0,tegumente cu eruptie maculopapuloasa,Urticarie acuta. TCC in antecedente,nu,nu,nu,43943.0,NEGATIV
+Z,FEMININ,43.0,43943.0,ASIMPTOMATIC COVID,43943.0,ASIMPTOMATIC,FRACTURA PERTROHANTERIANA BILATERALA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Y,MASCULIN,76.0,43969.0,ASIMPTOMATIC,43969.0,ASIMPTOMATIC,AFEBRIL  NEO PROSTATA,NEAGA,NU ESTE CAZUL,NU STIE,43943.0,NEGATIV
+Y,MASCULIN,65.0,43941.0,DURERE LATEROCERVICALA STG.TUMEFACTIE ADENOPATIE,43942.0, DURERE  LATEROCERVICAL STG., TUMEFACTIE SI DURERE,NU,NU,NU,43943.0,NEGATIV
+Z,FEMININ,61.0,43943.0,ASIMPTOMATIC COVID,43943.0,ASIMPTOMATIC,ABCES MAXILAR DREPT SUPRAINFECTAT  STARE SEPTICA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Z,MASCULIN,73.0,43936.0,DISPNEE FEBRA,43943.0,DISPNEE   ASTENIE ,SUSPICIUNE   SARS  COV2  PNEUMONE BAZALA STANGA ,NU,NU,NU,43943.0,NEGATIV
+Z,FEMININ,81.0,43943.0,FRISON ASTENIE AMETELI,43943.0,FRISON INAPETENTA,SUSPICIUNE SARS  COV 2 MIELOM MULTIPLU  ANEMIE SECUNDARA,NU,NU,NU,43943.0,NEGATIV
+Z,FEMININ,93.0,43936.0,DISPNEE TUSE,43943.0,DISPNEE TUSE,SUSP.INF.COVID HTA FIA,NU,NU,NU,43943.0,NEGATIV
+Y,FEMININ,15.0,NU,ASIMPTOMATICA,43943.0,ASIMPTOMATICA,GIIPII Sarcina  luna aIX .Fat viu  prezentatie cefalica  membrane intacte  bazin eutocic . Debut de travaliu. Sarcina insuficient investigata.,NU,NU,NU,43943.0,NEGATIV
+Y,MASCULIN,44,43943.0,DISFAGIE ODINOFAGIE,22.04.2020.,DISFAGIE ODINOFAGIE,SUSPICIUNE CORP STRAIN ESFAGIAN,NU,NU,NU,43943.0,NEGATIV
+Z,FEMININ,11.0,43943.0,febra inalta  3 v arsaturi  3 scaune apoase,43941.0,febra inalta    arsaturi   scaune apoase,Gastroenterita acuta. SAD GR II Itu recurenta,nu,nu,nu,43943.0,NEGATIV
+Y,FEMININ,31.0,43943.0,ASIMPTOMATICA,43943.0,ASIMPTOMATICA,GIIPII Sarcina20 saptamani   amenintate de ab,NU,0.0,NU,43943.0,NEGATIV
+X,MASCULIN,67.0,43946.0,paloare  astenie  fatigabilitate,43946.0,paloare  astenie  fatigabilitate,SUSP.INF.COVID  SDR ANEMIC SEVER  BOLA CR DE RINICHI,NU,NU,NU,43943.0,NEGATIV
+Z,MASCULIN,56.0,43940.0,FEBRA  TUSE,43943.0,ASIMPTOMATIC,CONTUZIE HEMORAGICA TEMPORAL DREAPTA  ETILISM CRONIC  CRIZE COMITIALE PE FOND TOXIC  TROMBOCITOPENIE,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Z,MASCULIN,37.0,43943.0,ASTENIE FEBRA,43943.0,ASTENIE   FEBRA,SUSPICIUNE SARS  COV 2  PNEUMONIE BAZALA DREAPTA,NU,NU,NU,43943.0,NEGATIV
+Y,FEMININ,43.0,43969.0,ASIMPTOMATIC COVID,43969.0,ASIMPTOMATIC COVID,COLECISTITA ACUTA LITIAZICA COLICA BILIARA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,POZITIV
+Y,MASCULIN,65.0,43955.0,ASIMPTOMATIC,43955.0,ASIMPTOMATIC,AFEBRIL  NEO CORP PANCREAS,NEAGA,NU ESTE CAZUL,NU STIE,43943.0,NEGATIV
+Z,FEMININ,50.0,43933.0,TUSE DISPNEE,43943.0,TUSE DISPNEE,SUSP.COVID 19 PNEUMONIE BILATERALA,NU,NU,NU,43943.0,NEGATIV
+Y,FEMININ,24.0,43943.0,ASIMPTOMATICA,43943.0,ASIMPTOMATICA,GIPI Sarcina l IX fat viu unic  prezentatie cefalica membrane intacte  bazin ososstramtat  travaliu,NU,0.0,NU,43943.0,NEGATIV
+Y,FEMININ,14.0,43939.0,DURERI ABDOMINALE,43946.0,VARSATURI SCAUNE MODIFICATE,GASTROENTEROCOLITA ACUTA,0.0,0.0,0.0,43943.0,NEGATIV
+Y,MASCULIN,73.0,43978.0,ASIMPTOMATIC,43978.0,ASIMPTOMATIC,AFEBRIL  NEO RECTAL,NEAGA,NU ESTE CAZUL,NU STIE,43943.0,NEGATIV
+X,FEMININ,63.0,43970.0,ASIMPTOMATIC,43970.0,ASIMPTOMATIC,AFEBRIL  NEO COL UTERIN,NEAGA,NU ESTE CAZUL,NU STIE,43943.0,NEGATIV
+Z,MASCULIN,43.0,43943.0,ASTENIE FEBRA,43943.0,AFEBRIL   ASTENIE,SUSPICIUNE SARS  COV 2    VIROZA RESPIRATORIE CU ALTERAREA  STARII GENERALE ,NU,NU,NU,43943.0,NEGATIV
+Z,FEMININ,61.0,43941.0,GREATA  VARSATURI  DURERI ABDOMINALE,43943.0,GREATA  VARSATURI  DURERI ABDOMINALE,COLECISTITA ACUTA LITIAZICA  DIABET ZAHARAT TIP II  HTA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Z,FEMININ,69.0,43933.0,SCADEREA FORTEI MUSCULARE,43943.0,SCADEREA FORTEI MUSCULARE,SUSP.COVID 19 SINDROM TETRAPARETIC,NU,NU,NU,43943.0,NEGATIV
+Y,FEMININ,35.0,43943.0,ASIMPTOMATICA,43943.0,ASIPTOMATICA,GIPIsarcina lIX  fat viu unic prezentatie cefalica  membrane intacte bazin osos normal  debut de travaliu,NU,0.0,NU,43943.0,NEGATIV
+Y,FEMININ,27.0,43943.0,ASIMPTOMATICA,43943.0,ASIMPTOMATICA,GI PI Sarcina 38/39 sapt. Fat viu. Prezentatie craniana. M.I. Bazion osos normal. Travaliu,NU,0.0,NU,43943.0,NEGATIV
+Y,MASCULIN,62.0,43951.0,ASIMPTOMATIC,43951.0,ASIMPTOMATIC,AFEBRIL  NEO AMIGDALA,NEAGA,NU ESTE CAZUL,NU STIE,43943.0,NEGATIV
+Y,FEMININ,29.0,43943.0,ASIMPTOMATICA,43943.0,ASIMPTOMATICA,GIPI Sarcina luna a IX a. Far viu  unic. Prezentatie cefalica. M.I. Bazin osos normal. Debut de travaliu.,NU,0.0,NU,43943.0,NEGATIV
+Z,MASCULIN,66.0,43949.0,DISPNEE,29 04 2020,DISPNEE,SUSP.INF.COVID 19 AVC CEREBRAL HEMIPAREZA DREAPTA,NU,NU,NU,43943.0,NEGATIV
+Z,FEMININ,35.0,43943.0,ASIMPTOMATIC COVID,43943.0,ASIMPTOMATIC,TRAUMATISM MAXILO-FACIAL  EPISTAXIS  FRACTURI COSTALE  FRACTURI PIRAMIDA NAZALA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43943.0,NEGATIV
+Y,MASCULIN,69.0,43985.0,ASIMPTOMATIC,43985.0,ASIMPTOMATIC,AFEBRIL  NEO COLON,NEAGA,NU ESTE CAZUL,NU STIE,43943.0,NEGATIV
+Z,MASCULIN,28.0,43942.0,CONVULSII,43943.0,CONVULSII,SUSP.INF.COVID19 CRIZA COMITIALA,NU,NU,NU,43943.0,NEGATIV
+X,FEMININ,91.0,43944.0,FEBRA,43947.0,FEBRA,SUSP.INF.COVID SDR.FEBRIL,NU,NU,DA,43944.0,NEGATIV
+Y,FEMININ,37.0,43944.0,TUSE,43944.0,ASIMPTOMATICA,SARCINA 14/15 SAPTAMANI IN EVOLUTIR AM.AB TROMBOFILIE EREDITARA TIROIDITA AUTOIMUNA INSUFICIENTA CERVICO-ISTMICA,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,84.0,43942.0,TUSE SEACA  DISPNEE,43945.0,FEBRA TUSE,SUS.INF.COVID.PNEUMONIE AC.,NU,NU,NU,43944.0,POZITIV
+Z,MASCULIN,53.0,43937.0,DISPNEE TUSE PRODUCTIVA,43944.0,DISPNEE TUSE PRODUCTIVA,SUSP COVID 19 PNEUMOPATIE AC,NU,NU,NU,43944.0,NEGATIV
+Y,FEMININ,23.0,43944.0,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,GII PII SARCINA LUNA IX-A UTER CICATRICEAL TRAVALIU,NU,0.0,NU,43944.0,NEGATIV
+Y,MASCULIN,63.0,43942.0,DURERE LA NIVELUL ANTEBRATULUI COTULUI STG,44025.0,DURERE SI IMPOTENTA FUNCTIONALA ANTEBRAT STANG,FRACTURA OBLICA 1/3 DISTALA DIAFIZA CUBITUS STG PLAGI ESCORIATE FATA DORSALA ANTEBRAT BILATERAL TRAUMATISM PRIN ACCIDENT RUTIER-PIETON SUSP INF SARS COV2,NU,NU,NU,43944.0,POZITIV
+Z,MASCULIN,43.0,43943.0,ASTENIE TUSE,43944.0,ASTENIE TUSE,SUSP.INF.COVID PNEUMOPATIE CU HEMOPTIZIE,NU,NU,NU,43944.0,NEGATIV
+Z,FEMININ,80.0,43948.0,TUSE   FEBRA  DISPNEE,43948.0,TUSE DISPNEE  AFEBRILA,SUSPICIUNE COVID 19. DIABET ZAHARAT   HTA  AMPUTATIE  COAPSA DREAPTA,NU,NU,DA,43944.0,NEGATIV
+X,FEMININ,39.0,NU,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,SARCINA CU LOCALIZARE NEPRECIZATA. TUMORA ANEXIALA,NU,0.0,NU,43944.0,NEGATIV
+Y,MASCULIN,62.0,43943.0,RINORAGIE,43943.0,RINORAGIE,EPISTAXIS ANTERIOR BILATERAL,NU,NU,NU,43944.0,NEGATIV
+Y,MASCULIN,51.0,44018.0,DURERI ABDOMINALE,44019.0,DURERI ABDOMINALE,COLICA ABDOMINALA ASCITA DE ETIOLOGIE NEPRECIZATA INSUFICIENTA RENALA CRONICA SUSPICIUNE INFECTIE SARS-COV2,NU,NU,NU,43944.0,NEGATIV
+Y,MASCULIN,55.0,43994.0,ASIMPTOMATIC,43994.0,ASIMPTOMATIC,AFEBRIL  NEO BRONHOPULMONAR,NEAGA,NU ESTE CAZUL,NU STIE,43944.0,NEGATIV
+Y,FEMININ,31.0,43944.0,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,GIII PII SARCINA 38/39 SAPTAMANI FAT VIU PREZENTATIE CEFALICA MI BAZIN NORMAL RO UTER CICATRICEAL ANEMIE SECUNDARA HIDRONEFROZA GR II DEBUT DE TRAVALIU,NU,0.0,NU,43944.0,NEGATIV
+Z,MASCULIN,87.0,29 04 2020,TUSE FEBRA,29 04 2020,TUSE FEBRA,SUSP.INF.COVID 19 HTA AMPUTATIE VECHE COAPSA DR.,NU,NU,NU,43944.0,NEGATIV
+Y,MASCULIN,42.0,04 05 2020,HTA,04 05 2020,ASIMPTOMATIC COVID,ABD.ACUT IN OBSERVATIE HTA GR.III BCR ST. V NEOPLASM RECT OPERAT ANEMIE SECUNDARA CARDIOPATIE ISCHEMICA SI HIPERTENSIVA,NU ESTE CAZUL,NU ESTE CAZUL,NU ESTE CAZUL,43944.0,NEGATIV
+Z,MASCULIN,8.0,43944.0,agitatie psihomotorie,43944.0,agitatie psihomotorie ,Agitatie psihomotorie .Atac de panica,0.0,0.0,nu,43944.0,NEGATIV
+Z,FEMININ,70.0,43943.0,DISPNEE,43943.0,DISPNEE,SUSP COVID 19 ,NU,NU,NU,43944.0,NEGATIV
+Y,MASCULIN,66.0,43965.0,FEBRA  TUSE  ASTENIE,43965.0,FEBRA  TUSE  ASTENIE,SUSPICIUINE   SARS COV 2 AVC ISCHEMIC,NU,NU,NU,43944.0,NEGATIV
+Y,MASCULIN,48.0,43941.0,DISPNEE DISFAGIE,43944.0,DISPNEE DISFAGIE,SUSP COVID 19 HTA IM SECHELAR,NU,NU,NU,43944.0,POZITIV
+Y,FEMININ,34.0,43944.0,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,G IV P III Sarcina 40 saptamani. Fat viu. Prez. cefalica. M.I. Bazin eutocic. Debut de travaliu. Sarcina neinvestigata,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,42.0,43944.0,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,GII PIII SARCINA LUNA IX-A EXPULZIE SARCINA NEINVESTIGATA,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,88.0,43975.0,FEBRA;DURERE TORACICA POSTERIOARA,43977.0,FEBRA ;DURERE TORACICA POSTERIOARA,SUSPICIUNE INFECTIE SARS COV 2;ITU,NU,NU ARE,NU,43944.0,POZITIV
+X,FEMININ,21.0,NU,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,P II SARCINA LUNA IX-A. FAT VIU  UNIC. PREZ. CEFALICA. M.I.  UTER CICATRICIAL. TRAVALIU,NU,0.0,NU,43944.0,NEGATIV
+Z,MASCULIN,67.0,43948.0,FeBRA TUSE,43948.0,AFBRIL,SUSPICIUNE  COVID   19  HEMIPAREZA   STANGA,NU,NU,DA,43944.0,NEGATIV
+Y,MASCULIN,63.0,07 05 2020,ASIMPTOMATIC COVID,07 05 2020,ASIMPTOMATIC COVID,GANGRENA DIABETICA GAMBA PICIOR STG.,NU E CAZUL,NU E CAZUL,NU E CAZUL,43944.0,NEGATIV
+Z,FEMININ,45.0,43941.0,FEBRA MIALGII,43944.0,FEBRA MIALGII,SUSP.COVID 19  PNEUMONIE INTERSTITIALA,NU,NU,NU,43944.0,NEGATIV
+Y,FEMININ,42.0,43951.0,ASIMPTOMATIC,43951.0,ASIMPTOMATIC,AFEBRIL  NEO COL UTERIN,NEAGA,NU ESTE CAZUL,NU STIE,43944.0,NECONCLUDENT
+Y,MASCULIN,71.0,43944.0,dizartrie tulb.echilibru,43944.0,dizartrie tulb.echilibru,SUSPICIUNE INFECTIE SARS COVID 19AVC ISCHEMIC.SUSPECT COVID-19,NU,NU,NU,43944.0,NEGATIV
+Z,FEMININ,83.0,43944.0,dispnee,43944.0,GRAVA,Insuficienta respiratorie. Suspiciune SARS COV 2. BPOC ,NU,NU,NU,43944.0,POZITIV
+X,FEMININ,38.0,NU,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,AVORT IN CURS 19/20/SAPTAMANI.MEMBRANE RUPTE,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,43.0,43944.0,DURERI ABD. GRETURI VARSATURI.,43944.0,DURERI ABD. GRETURI VARSATURI, SUSPICIUNE INFECTIE   SARC COV 19 INFECTIE DE TRACT URINAR,NU,NU,NU,43944.0,NEGATIV
+Y,FEMININ,9.0,43943.0,tuse,43924.0,tuse,febra  tuse,0.0,0.0,0.0,43944.0,NEGATIV
+X,FEMININ,16.0,NU,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,GIPI SARCINA L A IX A .FAT VIU.MI.PREZENTATIE CEFALICA.BAZIN PROPORTIONAL STRAMTAT.DEBUT DE TRAVALIO.RO.MINORA.SARCINA INSUFICIENT INVESTIGATA,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,27.0,43943.0,ASIMPTOMATICA,43943.0,ASIMPTOMATICA,GIPII Sarcina 38/39 saptamani  fat viu  prezentatie cefalica  membrane intacte  bazin osos normal uter cicatricial  fumatoare.Anemie secundara  debut de travaliu,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,28.0,43944.0,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,GIPI  Sarcina 38/39 saptamani.Fat viu. Prez. cefalica. Membrane rupte ora 4:45. Bazin osos normal. Debut de travaliu. Anemie secundara,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,36.0,43944.0,ASIMPTOMATICA,43944.0,ASIMPTOMATICA,GV PI SARCINA 40/41 SAPTAMANI  FAT VIU UNIC PREZ CRANIANA MI BAZIN OSOS NORMAL TRAVALIU ROC PRAEVIA PARTIAL CENTRALA METRORAGIE MINIMA PERSISTENTA,NU,0.0,NU,43944.0,NEGATIV
+Y,FEMININ,71.0,43969.0,ASIMPTOMATIC,43969.0,ASIMPTOMATIC,AFEBRIL  METAOSOASE,NEAGA,NU ESTE CAZUL,NU STIE,43944.0,NEGATIV
+Y,FEMININ,89.0,PROMAGISTIC NEURO/ATIII,dispnee HTA  CEFALEE ,43970.0,dispnee  HTA  Confuz cefalee,Insuficienta respiratorie ac.AVC ischemic HTA  Suspiciune SARS COV 2,NU,NU,NU,43944.0,POZITIV
+Y,FEMININ,78.0,43944.0,dispnee,43944.0,GRAVA,Insuf.respiratorie Suspiciune SARS COV,NU,NU,NU,43944.0,NEGATIV
+Z,FEMININ,54.0,43944.0,dispnee,43944.0,GRAVA,Insuficienta respiratorie acuta.Suspiciune SARS COV 2,NU,NU,NU,43944.0,NEGATIV
+Y,FEMININ,60.0,43944.0,febra melena lipotimie,43944.0,GRAVA,Insuficienta respirarie ,nu,nu,nu,43945.0,NEGATIV
+X,FEMININ,76.0,43945.0,varsaturi  hematemeza,43946.0,varsaturi hematemeza,SUSP.INF.COVID.HDS EXTERIORIZATA,NU,NU,NU,43945.0,NEGATIV
+X,FEMININ,27.0,NU,ASIMPTOMATICA,43945.0,ASIMPTOMATICA,GIPI SARCINA 40/41 SAPTAMANI.FAT VIU UNIC.PREZENTATIE CRANIANA.M.I. BAZIN OSOS NORMAL.DEBUT DE TRAVALIU,NU,0.0,NU,43945.0,NEGATIV
+X,MASCULIN,64.0,31..03.2020,TUSE SEACA  FRISOANE,43945.0,DISPNEE   ASTENIE ,SUSPICIUNE SARS COV2; CARDIOMIOPATIE DILATATIVA,NU,NU,NU,43945.0,NEGATIV
+Z,FEMININ,75.0,43933.0,HEMATURIE AFAZIE,43945.0,HEMATURIE AFAZIE,SUSP.COVID 19  HEMATURIE AVC ISCHEMIC,NU,NU,NU,43945.0,NEGATIV
+X,FEMININ,27.0,NU,ASIMPTOMATICA,43945.0,ASIMPTOMATICA,GII PII SARCINA35/36 SAPTAMANI.FAT VIU.MEMBRANE INTACTE.PREZENTATIE CEFALICA.BAZIN OSOS NORMAL.UTER CICATRICIAL.TROMBOFILIE.DEBUT TRAVALIU,NU,0.0,NU,43945.0,NEGATIV
+X,MASCULIN,46,43945.0,dispnee.febra.tuse seaca,43945.0,dispnee febra.tuse seaca,stationar,nu,nu,nu,43945.0,NEGATIV
+Z,FEMININ,81.0,43936.0,DISPNEE FEBRA,43943.0,DISPNEE FEBRA,SUSP COVID 19 PNEUMONIE  INTERSRTITIALA,NU,NU,NU,43945.0,NEGATIV
+Y,MASCULIN,73.0,43948.0,ASIMTOMATIC,43948.0,NU PREZINTA,STATIONAR,NU,NU,NU,43945.0,POZITIV
+X,MASCULIN,7,43945.0,ASIMPTOMATIC,43945.0,ASIMPTOMATIC,FARA,NU,NU,NU,43945.0,NEGATIV
+X,MASCULIN,36.0,43995.0,ASIMPTOMATICA,43995.0,ASIMPTOMATICA,ANEXITA MACROLEZIONALA DREAPTA  BOALA ADERENTIALA  SINDROM ANXIOS DEPRESIV,NU,NU,NU,43945.0,NEGATIV
+Z,FEMININ,46.0,43945.0,asimptomatic,43945.0,nu are,Agitatie psihomotorie Reactie anxioasa Retard mental moderat  Tulburare organica de personalitate  Anemie severa.,nu ,nu e cazul,nu,43945.0,NEGATIV
+X,FEMININ,75.0,43945.0,ASIMPTOMATIC,43946.0,ASIMPTOMATIC COVID,TCC ACUT CONTUZIE CEREBRALA HEMORAGICA FRACTURA OCCIPITAL DREAPTA SECHELE AVC,NU E CAZUL,NU E CAZUL,NU E CAZUL,43945.0,NEGATIV
+X,MASCULIN,81.0,43946.0,ASIMPTOMATIC,43945.0,ASIMPTOMATIC COVID,TCC ACUT INCHIS CU PIERDERE DE CONSTIENTA PRIN ACCIDENT RUTIER HEMATOM SUBDURAL TEMPORO-PARIETAL TRIPLU BYPASS DZ TIP II FRACTURA TEMPORO-PARIETALA DREAPTA CONTUZII HEMORAGICE TEMPORO-PARIETALE.,NU E CAZUL,NU E CAZUL,NU E CAZUL,43945.0,NEGATIV
+Y,MASCULIN,76.0,43941.0,TUSE SUBFEBRILITATI,43943.0,TUSE SUBFEBRILITATI,SUSP.COVID 19 PNEUMONIE BILATERALA,NU,NU,NU,43945.0,POZITIV
+X,FEMININ,63.0,43945.0,dispnee,43946.0,GRAVA,Insuf.respiratorie Suspiciune SARS COV,NU,NU,NU,43945.0,POZITIV
+X,FEMININ,34.0,NU,ASIMPTOMATICA,43945.0,ASIMPTOMATICA,G II P II SARCINA LUNA A IX- A. FAT VIU  UNIC. PREZ. CRANIANA. M.I. BAZIN OSOS NORMAL. DEBUT DE TRAVALIU. ROC. UTER CICATRICIAL. RH NEGATIV,NU,0.0,NU,43945.0,NEGATIV
+X,MASCULIN,13,43945.0,ASIMPTOMATIC,43945.0,ASIMPTOMATIC,FARA,NU,NU,NU,43945.0,NEGATIV
+X,FEMININ,49.0,43945.0,FEBRA  TUSE,43946.0,FEBRA TUSE,SUSP.INF.COVID.PNEUMONIE INTERST.,NU,NU,DA FARA DATA,43945.0,NEGATIV
+X,FEMININ,57.0,43959.0,dispnee  febra,43959.0,dispnee,Insuficienta respiratorie ac.Suspiciune SARS CoV 2.DZ tip II.Obezitate gr.II.BCR in program de HD  Sepsis cu punct de plecare neprecizat  ,NU,NU,NU,43945.0,NEGATIV
+X,FEMININ,27.0,NU,ASIMPTOMATICA,43945.0,ASIMPTOMATICA,GVI PIV Sarcina 37/38 sapt. Fat viu. Prezentatie craniana. Membrane fisurate. Bazin osos normal. Debut de travaliu. Uter cicatricial. Sarcina neinvestigata,NU,0.0,NU,43945.0,NEGATIV
+X,FEMININ,66.0,43945.0,DISPNEE  TUSE SEACA,43945.0,dispnee  tuse seaca,SUSP.INF.COVID.Neo.san bilat.Meta os.,Nu,NU,NU,43945.0,NEGATIV
+X,FEMININ,60,43941.0,FEBRA  TUSE  GREATA,43946.0,TUSE.  FEBRA   GREATA,SUSPICIUNE SARS COV2; PNEUMONIE INTERSTITIALA,NU,NU,NU,43946.0,POZITIV
+Y,FEMININ,57.0,43923.0,TUSE SEACA CEFALEE,43923.0,TUSE CEFALEE,SUSP.COVID 19 PNEUMONIE BILATERALA,NU,NU,NU,43946.0,NEGATIV
+X,FEMININ,25.0,NU,ASIMPTOMATICA,25.04 2020,ASIMPTOMATICA,GIPI Sarcina 40/41 sapt. Fat viu  unic. M.I. Prezentatie craniana. Bazin osos normal. Debut de travaliu,NU,0.0,NU,43946.0,NEGATIV
+X,FEMININ,33.0,NU,ASIMPTOMATICA,43946.0,ASIMPTOMATICA,GIIPII. SARCINA 30/31 SAPTAMINI. FAT VIU. PREZENTATIE CEFALICA. MEMBRANE INTACTE. BAZIN OSOS  NORMAL. RO. INSUFICIENTA CERVICO-ISTMICA CORECTATA PRIN CERCLAJ. ,NU,0.0,NU,43946.0,NEGATIV
+Y,FEMININ,56.0,43943.0,dureri abdominale  oprirea tranzit intestinal,43946.0,dureri abdominale  oprirea tranzit intestinal,SUSP.INF.COVID NEO RENAL STG OP,NU,NU,NU,43946.0,NEGATIV
+X,FEMININ,43.0,43946.0,Suspiciune infectie SARS-COV-2,43946.0,sindrom febril dispnee la efort  astenie,Suspiciune infectie SARS-COV-2,Nu,Nu,Nu,43946.0,NEGATIV
+Y,MASCULIN,78.0,43946.0,varsaturi  dispnee tuse toracalgii,43947.0,varsaturi  dispnee tuse toracalgii,SUSP.INF.COVID PLEUREZIE STG. HTA ST II ,NU,NU,NU,43946.0,NEGATIV
+X,MASCULIN,44.0,25.04 2020,asimptomatic,43946.0,Nu are,Retard mental cu tulburari de comportament,nu ,nu e cazul,nu,43946.0,NEGATIV
+Y,MASCULIN,82.0,43939.0,GRETURI  LIPSA POFTEI SDE MANCARE  ,43947.0,ASTENIA MARCATA GREATA.,SUSPICIUNE INFECTIE CU COVID-19   SINDROM ICTERIC CARDIOPATIE  MIXTA MELANOM MALIGN OPERAT,NU ARE,NU,NU,43946.0,NEGATIV
+Y,MASCULIN,47.0,44017.0,PLAGA INFECTATA MB. INFERIOR STG. POST AMPUTATIE,44019.0,NECROZA TEGUMENTARA LOCALA CU SUPURATIE PICIOR STG.,GANGRENA DIABETICA PICIOR STG.  BOALA CRONICA DE RINICHI GRD. V  SUSPICIUNE SARS COV 2,NU,NU,NU,43946.0,NEGATIV
+X,FEMININ,41.0,NU,ASIMPTOMATICA,43946.0,ASIMPTOMATICA,Abces tubo-ovarian stang cu reactie pelviperitoneala,NU,0.0,NU,43946.0,NEGATIV
+X,MASCULIN,32.0,43943.0,febra  frison  disfagie  agenzie,43946.0,febra  frison  disfagie  agenzie,SUSP.INF.COVID  PNEUMONIE INTERSTITIALA,NU,NU,DA,43946.0,NEGATIV
+Y,FEMININ,34.0,NU,ASIMPTOMATICA,43946.0,ASIMPTOMATICA,ENDOMETRITA HEMORAGICA POST AB ? ANEXITA MACROLEZIONALA STANGA.SUSPECT SARCINA EXTRAUTERINA,NU,0.0,NU,43946.0,NEGATIV
+X,FEMININ,80.0,43946.0,DURERI MUSCULARE. SINDROM FEBRIL.,43946.0,DURERI MUSCULARE. SINDROM FEBRIL.,SUSPECT COVID-19. INFECTIE DE TRACT URINAR.,NU ARE,NU,NU,43946.0,NEGATIV
+X,FEMININ,31.0,NU,ASIMPTOMATICA,43946.0,ASIMPTOMATICA,GIPISARCINA 38/39 SAPTAMINI .FAT VIU. PREZENTATIE PELVIANA. MEMBRANE INTACTE. BAZIN OSOS NORMAL. RO. ANEMIE SECUNDARA. DEBUT DE TRAVALIU. ALERGICA LA AMPICILINA SI OXACILINA.,NU,0.0,NU,43946.0,NEGATIV
+X,MASCULIN,2,43944.0,TUSE,43946.0,TUSE,PNEUMOPATIE IACRS,0.0,0.0,1.0,43946.0,NEGATIV
+Y,FEMININ,48.0,43944.0,tuse  odinofagie febra  anosmie,43946.0,tuse  odinofagie febra  anosmie,SUSP.INF.COVID BRONHOPNEUMONIE,NU,NU,NU,43946.0,POZITIV
+Y,FEMININ,79.0,43943.0,febra  astenie vertij,43946.0,febra  astenie vertij,SUSP.INF.COVID PNEUMOPATIE INTERSTITIALA  HTA,NU,NU,NU,43946.0,NEGATIV
+X,MASCULIN,65.0,25.04.2020,DURERE TORACICA,00:00:00,USOARE,SINDROM CORONARIAN ACUT,0.0,0.0,0.0,43946.0,NEGATIV
+X,FEMININ,21.0,NU,ASIMPTOMATICA,43946.0,ASIMPTOMATICA,GIPI Sarcina 39 sapt. Fat viu  unic. M.I. Prezentatie craniana. Bazin osos normal. Debut de travaliu,NU,0.0,NU,43946.0,NEGATIV
+X,MASCULIN,57.0,43945.0,ASIMPTOMATIC,43946.0,ORTOPEDIE SI TRAUMATOLOGIE,ASIMPTOMATIC COVID,DURERE GAMBA STG IMPOTENTA FUNCTIONALA GAMBA STG,NU E CAZUL,NU E CAZUL,43946.0,NEGATIV
+Y,FEMININ,68.0,43957.0,ASIMPTOMATIC,43957.0,ASIMPTOMATIC,AFEBRIL  NEO COLON,NEAGA,NU ESTE CAZUL,NU STIE,43946.0,NEGATIV
+Y,FEMININ,63.0,43946.0,ASIMPTOMATIC,25 04 2020,ASIMPTOMATIC COVID,EPISTAXIS HTA ,NU E CAZUL,NU E CAZUL,NU E CAZUL,43946.0,NEGATIV
+X,FEMININ,50.0,43942.0,TUSE  FEBRA,43945.0,CEFALEE  TUSE,SUSPICIUNE SARS COV2; NEO COL UTERIN OPERAT,NU,NU,DA,43946.0,POZITIV
+X,FEMININ,17.0,43947.0,agitatie psihomotorie   ingestie voluntara alcool etilic,43947.0,agitatie psihomotorie   ingestie voluntara alcool etilic,Agitatie psihomotorie  Tulburari comportamentale  Ingestie voluntara alcool etilic,NU,NU,NU,43947.0,NEGATIV
+X,FEMININ,17.0,43947.0,cefalee frontala  subfebrilitati  lombalgii  greturi,43947.0,cefalee frontala  subfebrilitati  lombalgii  greturi,Faringo-amigdalita acuta  Sinuzita frontala in observatie Colica renala dreapta  Suspect ITU,NU,NU,NU,43947.0,NEGATIV
+Z,MASCULIN,49.0,43948.0,febra  dispnee,43948.0,dispnee,Insuficienta respiratorie AVC ischemic.Suspiciune COVID 19,NU,NU,NU,43947.0,NEGATIV
+X,FEMININ,9.0,43947.0,ASIMPTOMATIC,43947.0,ASIMPTOMATIC,FARA,NU,NU,NU,43947.0,NEGATIV
+X,FEMININ,60.0,43944.0,FATIGABILITATE MARCATA OLIGURIE EDEME MB.INF.,43947.0,FATIGABILITATE MARCATA EDEME MB.INF OLIGURIE,SUS.INF.COVID INSUF.CARDIACA CONGEST. NYHAIII,NU,NU,NU,43947.0,NEGATIV
+Y,FEMININ,77.0,43947.0,febra  dispnee,43947.0,dispnee,Insuficenta respiratorie  AVC ischemic.Suspiciune COVID 19,NU,NU,NU,43947.0,NEGATIV
+X,FEMININ,29.0,NU,ASIMPTOMATICA,43947.0,ASIMPTOMATICA,GVIPVI.SARCINA 39 SAPTAMINI . FAT VIU UNIC . MEMBRANE RUPTE. PREZENTATIE CRANIANA. BAZIN EUTOCIC. RO. SARCINA INSUFICIENT INVESTIGATA. MULTIPARITATE. ANEMIE SECUNDARA.,NU,0.0,NU,43947.0,NEGATIV
+X,MASCULIN,72.0,43945.0,JUNGHI TORACIC DISPNEE,43948.0,JUNGHI TORACIC DISPNEE,SUSP.INF.COVID INSUF.CARDIACA NYHAIII,NU,NU,NU,43947.0,NEGATIV
+X,MASCULIN,32.0,43944.0,DURERI ABDOMINALE ASTENIE GRETURI VARSATURI,43947.0,DURERI ABDOMINALE ASTENIE GREATA VARSATURI,SUSP.INF.COVID  PANCRETITA ACUTA,NU,NU,NU,43947.0,NEGATIV
+Y,FEMININ,76.0,43939.0,tuse ,43947.0,tuse,SUSP.INF.COVID 19 PNEUMONIE INTERSTITIALA,NU,NU,NU,43947.0,NEGATIV
+Y,FEMININ,30.0,43947.0,ANASARCA,43947.0,DURERI ABDOMINALE ASTENIE FATIGABILITATE,SUSP.INF.COVID ASCITA DE ETIOLOGIE NESPECIFICATA,NU,NU,NU,43947.0,NEGATIV
+Y,FEMININ,86.0,43947.0,AFAZIE,43947.0,TULBURARI DE VORBIRE,SUSPECT COVID-19. AVC ISCHEMIC,NU ARE,NU,NU,43947.0,NEGATIV
+X,MASCULIN,56.0,25.04.2020,Suspiciune infectie SARS-COV-2,43945.0,febra tuse seaca dispnee mialgii,Suspiciune infectie SARS-COV-2,Nu,Nu,Nu,43947.0,NEGATIV
+Y,FEMININ,56.0,43942.0,TUSE SEACA FEBRA VARSATURI BILIOASE,43947.0,TUSE SEACA FEBRA VARSATURI BILIOASE,SUSP.INF.COVID PLEUREZIE STG. HTA ST II ,NU,NU,NU,43947.0,NEGATIV
+Y,FEMININ,37.0,26 04 2020,ASIMPTOMATIC,26.04202,ASIMPTOMATIC COVID,CEFALEE DURERI FOSA ILIACA DR,NU E CAZUL,NU E CAZUL,NU E CAZUL,43947.0,NEGATIV
+Y,MASCULIN,75.0,43947.0,ASIMPTOMATIC,43947.0,ASIMPTOMATIC COVID,TCC CONTUZIE HEMORAGICA FRACTURA TEMPORAL BILATERAL HEMORAGIE SUBARAHNOIDIANA HEMATOM SUBDURAL ,NU E CAZUL,NU E CAZUL,NU E CAZUL,43947.0,NEGATIV
+X,FEMININ,58.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+X,FEMININ,65.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO COLON,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+Z,FEMININ,53.0,43945.0,FEBRA TUSE SEACA,43948.0,FEBRA TUSE SEACA,SUSP.INF.COVID 19 PNEUMONIE DREAPTA,NU,NU,NU,43948.0,POZITIV
+Z,FEMININ,69.0,43948.0,TUSE DISFAGIE,43948.0,TUSE DISFAGIE   FEBRA ,SUSPICIUBNE COVID 19 POLIMIOZITA PRIMARA,NU ,NU,NU,43948.0,NEGATIV
+X,FEMININ,24.0,43948.0,asimptomatic,43948.0,Nu are,Agitatie psihomotorie.Tulburare psihotica oegnica,nu ,nu e cazul,nu,43948.0,NEGATIV
+X,MASCULIN,51.0,27 04 2020,asimptomatic,43948.0,Nu are,Tulburare deliranta persistenta ,nu ,nu e cazul,nu,43948.0,NEGATIV
+X,FEMININ,67.0,43948.0,asimptomatic,27.04.2020,Nu are,Tulburare deliranta persistenta ,nu ,nu e cazul,nu,43948.0,NEGATIV
+X,FEMININ,73.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+X,MASCULIN,49.0,43945.0,DISFAGIE   TUSE SEACA,43948.0,TUSE SEACA  DISFAGIE,SUSPICIUNE  COVID   19  PNEUMONIE INTERSTITIALA,NU ,NU,NU,43948.0,NEGATIV
+Z,MASCULIN,1 LUN,43955.0,ASIMPTOMATIC,43952.0,ASIMPTOMATIC,FARA,NU,NU,NU,43948.0,NEGATIV
+X,FEMININ,27.0,NU,ASIMPTOMATICA,27 04 2021,ASIMPTOMATICA,Sarcina cu locxalizare neprecizata. Suspect SEU. Uter cicatricial,NU,0.0,NU,43948.0,NEGATIV
+Z,FEMININ,10.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,FARA,NU,NU,NU,43948.0,NEGATIV
+X,FEMININ,69.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+X,FEMININ,62.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+Z,MASCULIN,41.0,43948.0,TUSE  DISPNEE,43948.0,TUSE DISPNEE,SUSP.INF.COVID 19 ASTM BRONSIC ,NU,NU,NU,43948.0,NEGATIV
+X,FEMININ,61.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+Z,FEMININ,54,27.04.2020,DISPNEE DE REPAUS  FATIGABILITATE,27.04.2020,DISPNEE DE REPAUS,TEP CU RISC INTERMEDIAR INALT,0.0,0.0,0.0,43948.0,NEGATIV
+Y,MASCULIN,7.0,25.04.2020,FEBRA SCAUNE DIAREICE,27.04.2020,DURERI ABDOMINALE,CAZ SUSPECT COVID-19,0.0,0.0,DA,43948.0,NEGATIV
+Z,MASCULIN,37.0,43948.0,DURERE MEMBRU SUPERIOR DREPT,43948.0,DURERE MEMBRU SUPERIOR DREPT, FRACTURA  TRANSVERSALA CU DEPLASARE 1/3 MEDIE DIAFIZA RADIALA DREAPTA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43948.0,NEGATIV
+Z,FEMININ,6.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,FARA,NU,NU,NU,43948.0,NEGATIV
+Z,MASCULIN,65.0,43948.0,DURERE LA NIVELUL MEMBRELOR INFERIOROARE,43948.0,DURERE LA NIVELUL MEMBRELOR INFERIOROARE,GANGRENA ARTERITICA MEMBRU INFERIOR DREPT,NU E CAZUL,NU E CAZUL,NU E CAZUL,43948.0,NEGATIV
+X,FEMININ,22.0,NU,ASIMPTOMATICA,43948.0,ASIMPTOMATICA,GIII PII.SARCINA 39 SAPTAMANI.FAT VIU.MEMBRANE INTACTE.PREZENTATIE CEFALICA.BAZIN OSOS NORMAL.RO.UTER CICATRICIAL.SARCINA ISUFICIENT URMARITA.FUMATOARE.,NU,0.0,NU,43948.0,NEGATIV
+Z,MASCULIN,30.0,43948.0,DURERE REGIUNE MANDIBULARA TRAUMATISM FACIAL,43948.0,DURERE REGIUNE MANDIBULARA TRAUMATISM  FACIAL,FRACTURA DE MANDIBULA BIFOCALA CU DEPLASARE IN URMA UNEI AGRESIUNI,NU E CAZUL,NU E CAZUL,NU E CAZUL,43948.0,NEGATIV
+Z,MASCULIN,80.0,43948.0,VARSATURI,43948.0,VARSATURI ,SUSPICIUNE COVID 19.   HTA   LACUNARISM  CEREBRAL  FIA  CARDIOPATIE ISCHEMICA,NU,NU,NU,43948.0,NEGATIV
+X,MASCULIN,66.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO COLON,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+Z,MASCULIN,60.0,43948.0,DISPNEE ASCITA DURERE ABD,43948.0,DISPNEE ASCITA DURERE ABD,SUSP.INF COVID 19 CIROZA HEPATICA DECOMPENSATA,NU,NU,NU,43948.0,NEGATIV
+Z,FEMININ,67.0,43948.0,DISPNEE TUSE,43948.0,DISPNEE TUSE,SUSP.INF.COVID 19 HTA ANGINA PECTORALA,NU,NU,NU,43948.0,NEGATIV
+Z,FEMININ,82.0,43948.0,FEBRA TUSE DISPNEE,43948.0,FEBRA TUSE DISPNEE,SUSP.INF.COVID 19 PNEUMONIE BILATERALANU,NU,NU,NU,43948.0,POZITIV
+X,FEMININ,77.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+X,MASCULIN,15.0,43945.0,dureri abdominale  disurie ,43948.0,Afebril apetent  buze uscate   faringe discret congestionat,Colica renala   Suspect ITU  Angina acuta ,NU ,NU,NU,43948.0,NEGATIV
+Y,FEMININ,81.0,44022.0,DURERE SI IMPOTENTA ,44022.0,DURERE SOLD STANG POST CONTUZIE IMPOTENTA FUNCTIONALA,DURERE SOLD STANG,NU,NU,NU,43948.0,POZITIV
+X,FEMININ,44.0,NU,ASIMPTOMATICA,43948.0,ASIMPTOMATICA,AVORT INCOMPLET LUNA II/III,NU,0.0,NU,43948.0,NEGATIV
+X,FEMININ,35.0,NU,ASIMPTOMATICA,43948.0,ASIMPTOMATICA,GIII PII.SARCINA 37/38SAPTAMANI.FAT VIU.MEMBRANE INTACTE.PREZENTATIE CEFALICA.BAZIN OSOS NORMAL.RO.UTER CICATRICIAL.,NU,0.0,NU,43948.0,NEGATIV
+X,FEMININ,46.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+Z,MASCULIN,44.0,43948.0,TUSE  MIALGII,43948.0,AFEBRIL TUSE NIALGII,SUSPICIUNE   COVID 19 ,NU,NU,NU,43948.0,NEGATIV
+Z,MASCULIN,77.0,43944.0,FEBRA TUSE,43948.0,FEBRA TUSE,SUSP.INF COVID 19 PNEUMOPATIE,NU,NU,NU,43948.0,NEGATIV
+X,FEMININ,31.0,NU,ASIMPTOMATICA,43948.0,ASIMPTOMATICA,G II PI SARCINA 38/39 SAPTAMANI. FAT VIU UNIC. M.I. PREZ. CEFALICA.BAZIN OSOS NORMAL.RO. OBEZITATE. MIOPIE,NU,0.0,NU,43948.0,NEGATIV
+Z,MASCULIN,61.0,43948.0,DURERI HEMITORACE STG,43948.0,DURERI HEMITORACE STG,TRAUMATISM TORACIC FRACTURI ARC COSTAL V-XI,NU E CAZUL,NU E CAZUL,NU E CAZUL,43948.0,NEGATIV
+X,FEMININ,26.0,NU,ASIMPTOMATICA,43948.0,ASIMPTOMATICA,G III PIII SERCINA 37/38 SAPTAMANI FAT VIU UNIC MI BAZIN OSOS NORMAL UTER DUBLU CICATRICEAL ANEMIE SECUNDARA,NU,0.0,NU,43948.0,NEGATIV
+Z,MASCULIN,48.0,43941.0,TUSE,43948.0,TUSE, SUSP.INF.COVID 19 HEMOPTIZIE SECHELE TBC PULMONAR,NU,NU,NU,43948.0,NEGATIV
+Z,FEMININ,55.0,43923.0,DURERI ABDOMINALE  DIAREE,27.04.2020,DURERI ABDOMINALE  DIAREE,SUSPICIUNE   COVID 19. SINDROM SUBOCLUZIV SINDROM DIAREIC STATUS POST COLON OPERAT,NU,NU,NU,43948.0,NEGATIV
+Z,MASCULIN,48.0,43948.0,ASTENIE   TEGUMENTE PALIDE OBOSEALA,43948.0,ASTENIE MARCATA ,SUSPICIUNE COVID19 ANEMIE SEVERA  LEUCEMIE CR,NU,NU,NU,43948.0,NEGATIV
+X,MASCULIN,71.0,43948.0,ASIMPTOMATIC,43948.0,ASIMPTOMATIC,AFEBRIL  NEO COLON,NEAGA,NU ESTE CAZUL,NU STIE,43948.0,NEGATIV
+Z,MASCULIN,66.0,43948.0,DISPNEE  EPIGASTRALGII,27.04.2020,DISPNEE  EPIGASTRALGII,SUSPICIUNE   COVID 19. CHISTE PANCREATICE  TUMORA  COLEDOC OPERAT,NU,NU,NU,43948.0,NEGATIV
+X,FEMININ,39.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,TUMORA CHISTICA OVARIANA VOLUMINOASA,NU,0.0,NU,43949.0,NEGATIV
+X,FEMININ,27.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,G II P II SARCINA 33 SAPTAMANI. FAT VIU  UNIC. PREZENTATIE CEFALICA. MI. BAZIN EUTOCIC. ANP. ROC. UTER CICATRICIAL.PLACENTA JOS ISERATA,NU,0.0,NU,43949.0,NEGATIV
+X,FEMININ,66.0,43949.0,asimptomatic,43949.0,nu are,Tulburari de comportament corelate cu consumul de alcool.,nu ,nu e cazul,nu,43949.0,NEGATIV
+X,FEMININ,17.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,G II P I SARCINA 38 SAPTAMANI. FAT VIU  UNIC. PREZ. CRANIANA. M.I. BAZIN OSOS NORMAL. DEBUT DE TRAVALIU. ROC. RCIU. OLIGOAMNIOS. PREECLAMPSIE FORMA MEDIE,NU,0.0,NU,43949.0,NEGATIV
+Z,MASCULIN,29.0,43948.0,TCC ACUT PRIN ACCIDENT RUTIER POLITRAUMATISM,43949.0,TCC ACUT PRIN ACCIDENT RUTIER POLITRAUMATISM,TCC ACUT INCHIS PRIN ACCIDENT RUTIER CONTUZIE ZONA LOMBARA ECHIMOZA LOMBARA DREAPTA TRAUMATISM COT DREPT PLAGA CONTUZA COT DREPT,NU E CAZUL,NU E CAZUL,NU E CAZUL,43949.0,NEGATIV
+Z,FEMININ,1luna,43949.0,scaune diareice,43949.0,Subfebrilitate  tegumente marmorate  eritem fesier  faringe congestiv pulmonar MV normal transmis  abdomen moale  permite palparea pliu latero-abdominal mai lenes,BDA .SAD gradul II .Angina acuta .Eritem fesier,Nu,Nu,Nu,43949.0,NEGATIV
+X,MASCULIN,39.0,43948.0,HEMOPTIZIE TUSE DISPNEE,43949.0,HEMOPTIZIE TUSE DISPNEE,SUSP.INF.COVID 19 HEMOPTIZIE,NU,NU,NU,43949.0,NEGATIV
+Z,FEMININ,81.0,43947.0,VARSATURI  DURERI ABDOMINALE DIFUZE,43949.0,VARSATURI  DURERI ABDOMINALE DIFUZE  STARE GENERALA INFLUENTATA,SDR ACUT DE DESHIDRATARE  HTA  CIC  AVC SECHELAR  SUSPICIUNE COVID 19,NU,NU,NU,43949.0,NEGATIV
+X,MASCULIN,52.0,43948.0,asimptomatic,27.04.2020,Nu are,Tulburari de comportament corelate cu consumul de alcool.,nu ,nu e cazul,nu,43949.0,NEGATIV
+X,FEMININ,41.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,TUMORA OVARIANA STANGA ( ENDOMETRIOM ) VOLUMINOASA SI COMPRESIVA,NU,0.0,NU,43949.0,NEGATIV
+Z,MASCULIN,41.0,43948.0,FEBRA  TREMOR GENERALIZAT,43949.0,FEBRA  TREMOR GENERALIZAT,SDR FEBRIL  PNEUMONIE INTERSTITIALA  RETARD MENTAL  SUSPICIUNE COVID 19,NU,NU,NU,43949.0,NEGATIV
+X,FEMININ,27.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,SARCINA EXTRAUTERINA DREAPTA ( 1 6cm ) NERUPTA. CHIST OVARIAN STANG,NU,0.0,NU,43949.0,NEGATIV
+Z,FEMININ,9 LUNI,43948.0,ASIMPTOMATIC,43949.0,ASIMPTOMATIC,FARA,NU,NU,NU,43949.0,NEGATIV
+X,FEMININ,47.0,44022.0,INFLAMATIE SI SUPURATIE LA NIVELUL GAMBEI DR.,44025.0,INFLAMATIE SI SUPURATIE LA NIVELUL GAMBEI DR.,PLAGA CONTUZA GAMBA DREPTA SUPRAINFECTATA,NU,NU,NU,43949.0,NEGATIV
+Z,MASCULIN,70.0,43947.0,TUSE JUNGHI TORACIC FEBRA,43949.0,TUSE JUNGHI TORACIC FEBRA,SUSP.INF.COVID 19 PNEUMOPATIE INTERST FIA HTA STII,NU,NU,NU,43949.0,NEGATIV
+X,FEMININ,24.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,GI PI SARCINA LUNA A IX -A.FAT MORT ANTEPARTUM.BAZIN OSOS NORMAL.M I.DEBUT DE TRAVALIU,NU,0.0,NU,43949.0,NEGATIV
+Z,MASCULIN,53.0,43949.0,ASIMPTOMATIC,43949.0,ASIMPTOMATIC,OCLUZIE INTESTINALA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43949.0,NEGATIV
+Z,MASCULIN,67.0,28.04.2020,DURERE TORACICA,28.04.2020,DURERE TORACICA,SINDROM CORONARIAN ACUT,0.0,0.0,0.0,43949.0,NEGATIV
+Z,MASCULIN,69.0,43948.0,DURERI ABDOMINALE,43949.0,DURERI ABDOMINALE HEMATEMEZA  MELENA ,HEMORAGIE DIGESTIVA SUPERIOARA .SECHELE AVC,NU,NU,NU,43949.0,NEGATIV
+Z,MASCULIN,51.0,43949.0,DISPNEE FEBRA,28 04 2020,DISPNEE FEBRA,INSUFICIENTA RESPIRATORIE,NU,NU,NU SE STIE,43949.0,NEGATIV
+Z,FEMININ,78.0,43949.0,FEBRA TUSE,43949.0,FEBRA TUSE DISPNEE GRETURI ,SUSPICIUNE SARS COV 19  PNUMOPATIE ACUTA DREAPTA   HTA  ST  II  TBC PULMONAR SECHELAR  AVC  SECHELAR SINDROM FEBRIL ,NU,NU,NU,43949.0,NEGATIV
+Z,FEMININ,53.0,43945.0,DISPNEE FRISON,43947.0,ASTENIE DISPNEE,SUSP.INF.COVID  VIROZA RESPIRATORIE,NU,NU,DA,43949.0,NEGATIV
+Z,MASCULIN,4 LUNI,43947.0,tuse productiva scaune apoase febra, 28.04.2020,stare generala influentata  faringe congestiv abdomen moale TI accelerat  palid tegumente marmorate  somnolent ,Bronsiolita acuta cu IRA .BDA .SAD gradul II,Nu,Nu,Nu,43949.0,NEGATIV
+Z,MASCULIN,50.0,43949.0,ASIMPTOMATIC,43949.0,ASIMPTOMATIC,APENDICITA ACUTA,NU E CAZUL,NU E CAZUL,NU E CAZUL,43949.0,NEGATIV
+Z,MASCULIN,41.0,43948.0,DURERE LA NIVELUL MEMBRULUI INFERIOR DREPT,43949.0,DURERE LA NIVELUL MEMBRULUI INFERIOR DREPT,FRACTURA CU DEPLASARE 1/3 DISTALA TIBIE DREAPTA SI 1/3 PROXIMALA PERONEU DREPT,NU E CAZUL,NU E CAZUL,NU E CAZUL,43949.0,NEGATIV
+Z,FEMININ,79.0,43949.0,FEBRA MIALGII   ASTENI,43950.0,FEBRA  MIALGII  ASTENIE,SUSPICIUNE SARS COV  19 PNEUMOPATIE ACUTA   HTA   FIBRILATIE ATRIALA ,NU,NU,NU,43949.0,NEGATIV
+Z,FEMININ,52.0,43949.0,DISPNEE TUSE,28 04 2020,TUSE DISPNEE,INSUFICIENTA RESPIRATORIE,NU,NU,NU SE STIE,43949.0,NEGATIV
+Z,MASCULIN,44.0,43910.0,DISPNEE TUSE SUBFEBR.,43949.0,DISPNEE TUSE SUBFEBRILITATI,SUSP.INF.COVID 19 PRONHOPNEUMONIE SPECIFICA,NU,NU,NU,43949.0,NEGATIV
+X,MASCULIN,70.0,43948.0,DISPNEE TUSE FATIGABILITATE,43949.0,DISPNEE TUSE  FATIGABILITATE,SUSP.INF.COVID 19 PNEUMONIE DREAPTA,NU,NU,NU,43949.0,NEGATIV
+Z,MASCULIN,66.0,43942.0,TUSE PRODUCTIVA DISPNEE,43949.0,TUSE PRODUCTIVA DISPNEE,SUSP.INF.COVID 19 NEOPLASM BRONHOPULMONAR BPOC,NU,NU,NU,43949.0,NEGATIV
+Z,MASCULIN,90.0,43949.0,HEMATURIE MACROSCOPICA EDEME GAMBIERE,43949.0,HEMATURIE MACROSCOPICA EDEME GAMBIERE,SUSP.INF.COVID 19 INSUF.CARDIACA FIA PERMANENTA AVC SECHELAR HTA GRII,NU,NU,NU,43949.0,NEGATIV
+X,MASCULIN,86.0,43948.0,DURERE ABD,43949.0,DURERE ABD.,SUSP.INF.COVID 19 SDR SUBOCLUZIV,NU,NU,NU,43949.0,NEGATIV
+X,FEMININ,28.0,NU,ASIMPTOMATICA,43949.0,ASIMPTOMATICA,Nastere la domiciliu neasistate. Faza placentara,NU,0.0,NU,43949.0,NEGATIV
+Z,MASCULIN,64.0,43942.0,ASIMPTOMATIC,43942.0,actual 28.04.2020 - febril  tuse  dispnee  leucocite crescute cu limfopenie  probe inflamatorii crescute,FEBRA  NEO BRONHOPULMONAR,NEAGA,NU ESTE CAZUL,NU STIE,43949.0,NEGATIV
+Z,FEMININ,73.0,43949.0,ASIMPTOMATIC,43949.0,ASIMPTOMATICA,ANGIOSARCOM BRAT SI ANTEBRAT STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,43949.0,NEGATIV
+Y,FEMININ,60.0,43950.0,ASIMPTOMATIC,43950.0,ASIMPTOMATIC,AFEBRIL  NEO COLON,NEAGA,NU ESTE CAZUL,NU STIE,43950.0,NEGATIV
+X,FEMININ,64.0,43927.0,nu are,43927.0,nu are,Retard mental cu tulburari de comportament.,nu,nu e cazul,nu,43950.0,NEGATIV
+Z,MASCULIN,35.0,nu,Asimptomatic,43950.0,nu,fractura deschisa gamba stg,nu este cazul,nu,nu,43950.0,NEGATIV
+Y,MASCULIN,52.0,43950.0,ASIMPTOMATIC,43950.0,ASIMPTOMATIC,AFEBRIL  NEO RECTO-SIGMOID,NEAGA,NU ESTE CAZUL,NU STIE,43950.0,NEGATIV
+Y,FEMININ,39.0,                                    NU,       ASIMPTOMATICA,       29.04.2020,ASIMPTOMATICA,                      CHIST-ABCES BARTOLIN STANG,NU,0.0,NU,43950.0,NEGATIV
+X,FEMININ,26.0,                                    NU,       ASIMPTOMATICA,        29.04.2020,ASIMPTOMATICA,G VI P V SARCINA 37/38 SAPT. FAT VIU  UNIC. PREZ. CEFALICA. M.I. BAZIN OSOS NORMAL.ROC. UTER CVADRUPLU CICATRICIAL. CIRCULARA PERICERVICALA.,NU,0.0,NU,43950.0,NEGATIV
+Z,MASCULIN,32.0,29 04 2020,TUSE FEBRA,29 04 2020,TUSE FEBRA,SUSP.INF COVID 19 SINDROM HEPATOCITOLITIC,NU,NU,NU,43950.0,NEGATIV
+Z,MASCULIN,11.0,43971.0,reevaluare clinico-biologica   tratament de substitutie,43971.0,Afebril apetent tegumente palide faringe liber echilibrat cardio-circulator abdomen moale suplu nedureros la palpare   TI prezent ,Anemie hipoplastica congenitala Blackfam Diamond .Hipotrofie staturo-ponderala,Nu,Nu,Nu,43950.0,NEGATIV
+Z,FEMININ,51.0,43947.0,TUSE   DURERI TORACICE POSTERIOARE,43950.0,TUSE  PARESTEZII MEMBRUL SUPERIOR STANG DURERI TORACICE ,SUSPICIUNE COVID 19  PNEUMOPATIE ACUTA,NU,NU,NU,43950.0,NEGATIV
+Y,FEMININ,87.0,30 04 2020,TUSE FEBRA,01 05 2020,TUSE FEBRA,SUSP.INF COVID 19 HTA FIA DEMENTA SENILA ,NU,NU,NU,43950.0,NEGATIV
+Z,MASCULIN,84.0,29 04 2020,DISPNEE TUSE CU EXPECTORATII,29 04 2020,DISPNEE TUSE CU EXPECTORATII,SUSP.INF.COVID 19 INSUFICIENTA RESPIRATORIE ACUTA,NU,NU,NU,43950.0,NEGATIV
+Z,MASCULIN,59.0,43951.0,ASIMPTOMATIC COVID,43951.0,ASIMPTOMATIC COVID,TCC acut inchis cu pierdere de constienta prin cadere cu bicicleta.Hematom epidural parietal drept. Contuzie hemoragica temporal stang. Fractura cu usoara deplasare temporal drept. Fracturi costale V  VI  VII drept. Echimoza Etilism acut. Fractura cu deplasare 1/3 medie clasvicula dreapta,NU E CAZUL,NU E CAZUL,NU E CAZUL,43950.0,NEGATIV
+Y,FEMININ,64.0,43950.0,ASIMPTOMATIC,43950.0,ASIMPTOMATIC,AFEBRIL  NEO MAMAR,NEAGA,NU ESTE CAZUL,NU STIE,43950.0,NEGATIV
